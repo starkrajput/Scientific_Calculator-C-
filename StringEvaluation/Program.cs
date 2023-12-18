@@ -169,9 +169,10 @@ class Program
     static StringBuilder expressionHistory = new StringBuilder();
     static StringBuilder expressionSolver = new StringBuilder();
     static ArrayList memoryExpression = new memoryExpressions();
-
+    static StringBuilder UnhandleService = new StringBuilder();
     static StringBuilder History = new StringBuilder();
     static String Current = "Radian";
+    static String IsFE = "EF";
  
     static public void Layout()
     {
@@ -180,8 +181,9 @@ class Program
         Console.WriteLine("  8                                    5                                  2                                    .");
         Console.WriteLine("  9                                    6                                  3                                    =");
         Console.WriteLine("  /                                    *                                  -                                    +");
-        
-
+        Console.WriteLine();
+        Console.WriteLine($"Current Status : {IsFE}   -  {Current}                                                                               ");
+        Console.WriteLine();
         Console.WriteLine("\nAdditional Keys:                     Additional Shift + Keys:                   Other Special Keys:" );
         Console.WriteLine("=================                      =========================                  ===================="); 
         Console.WriteLine("Ctrl + M: Secant                       Shift + S: 10^x                            Backspace: Remove Last");
@@ -191,9 +193,9 @@ class Program
         Console.WriteLine("Ctrl + L: Round Down                   Shift + U: Sin                             O: Modulus (%)");
         Console.WriteLine("Ctrl + G: Random (1-100)               Shift + I: Cos                             U: Factorial");
         Console.WriteLine("Ctrl + S: Rad to Deg                   Shift + J: Tan                             I: (");
-        Console.WriteLine("Ctrl + U: Deg to Rad                   Shift + A: Tanh                            J: )");
-        Console.WriteLine("Ctrl + I: Use as is (GRAD)             Shift + B: Sinh                            M: 1/x");
-        Console.WriteLine("Ctrl + J: Scientific Notation          Shift + C: Cosh                            N: Clear All");
+        Console.WriteLine("                                       Shift + A: Tanh                            J: )");
+        Console.WriteLine("                                       Shift + B: Sinh                            M: 1/x");
+        Console.WriteLine("                                       Shift + C: Cosh                            N: Clear All");
         Console.WriteLine("Ctrl + Y: Negation                     Shift + D: Sech                            Q: x^2");
         Console.WriteLine("Ctrl + Z: F-E                          Shift + E: Cosech                          V: √x");
         Console.WriteLine("Ctrl + A: e                            Shift + F: Coth                            X: x^y");
@@ -202,10 +204,10 @@ class Program
         Console.WriteLine("                                       Shift + X: ACos                            Right Arrow: MS");
         Console.WriteLine("                                       Shift + Y: ATan                            Down Arrow: MR");
         Console.WriteLine("                                       Shift + V: ASec                            G: MC");
-        Console.WriteLine("                                       Shift + W: ACosec                          B: TriRoot");
+        Console.WriteLine("                                       Shift + W: ACosec                          B: Cube_Root");
         Console.WriteLine("                                       Shift + P: ACot                            E: ACoth");
         Console.WriteLine("                                       Shift + Q: ASinh                           D: ASech   ");
-        Console.WriteLine("                                       Shift + G: ACosh                            C: ACosech               ");
+        Console.WriteLine("                                       Shift + G: ACosh                           C: ACosech               ");
         Console.WriteLine("                                       Shift + K: ATanh                           F: PI               ");
         Console.WriteLine("                                                                               ");
         Console.WriteLine(); 
@@ -215,7 +217,8 @@ class Program
     static bool isPower = false;
     static void Main()
     {
-       
+        try
+        {
             Console.Title = " Calculater ";
             //Console.WriteLine("Expression");
             String Expression = "(((2+4)*2+5)+2^5+((6*6)/6+32))";
@@ -226,6 +229,7 @@ class Program
 
             KeyPressed += HandleKeys;
             memoryExpression.Add("0");
+            
             Console.WriteLine();
             Layout();
             while (true)
@@ -239,7 +243,11 @@ class Program
                 //Console.WriteLine($"  Key pressed: {cki.Key}\t Modifiers pressed : {cki.Modifiers}.");
 
             }
-       
+        }
+        catch {
+            Console.WriteLine("Invalid Input.");
+            Main();
+        }
         }
         
 
@@ -274,7 +282,7 @@ class Program
 
                             // Calculate Sin in gradient
                             // double resultInGradient = Math.Sin(radianValue) * (10.0 / 9.0);
-                            expressionSolver = new StringBuilder((1 / Math.Cos(radianValue) * (10.0 / 9.0)).ToString());
+                            expressionSolver = new StringBuilder((1 / Math.Cos(radianValue) ).ToString());
                         }
 
                         //expressionSolver = new StringBuilder((1 / (Math.Cos(intVaals))).ToString());
@@ -308,7 +316,7 @@ class Program
 
                             // Calculate Sin in gradient
                             // double resultInGradient = Math.Sin(radianValue) * (10.0 / 9.0);
-                            expressionSolver = new StringBuilder((1 / Math.Sin(radianValue) * (10.0 / 9.0)).ToString());
+                            expressionSolver = new StringBuilder((1 / Math.Sin(radianValue) ).ToString());
                         }
 
                         // expressionSolver = new StringBuilder((1 / (Math.Sin(intVaalss))).ToString());
@@ -343,7 +351,7 @@ class Program
 
                             // Calculate Sin in gradient
                             // double resultInGradient = Math.Sin(radianValue) * (10.0 / 9.0);
-                            expressionSolver = new StringBuilder((1 / Math.Tan(radianValue) * (10.0 / 9.0)).ToString());
+                            expressionSolver = new StringBuilder((1 / Math.Tan(radianValue) ).ToString());
                         }
 
                         //expressionSolver = new StringBuilder((1 / (Math.Tan(intVaalsss))).ToString());
@@ -400,10 +408,15 @@ class Program
                         Layout();
                         break;
                     case ConsoleKey.S:
-                        //->To DEG
-                        if (double.TryParse(expressionSolver.ToString(), out double inttVaalssss))
+                   
+                     // To DEG
+                     if (double.TryParse(expressionSolver.ToString(), out double inttVaalssss))
                         {
-                            expressionSolver = new StringBuilder((Math.PI * inttVaalssss / 180.0).ToString());
+
+                        double er = (Convert.ToDouble(Math.PI) / 180) * (Convert.ToDouble(inttVaalssss));
+                        expressionSolver = new StringBuilder((er).ToString());
+
+                        //expressionSolver = new StringBuilder();
                             History.Append("DEG(" + inttVaalssss + ")");
                             Console.Clear();
                             Console.WriteLine(expressionHistory + "                            -> Current Expression");
@@ -414,12 +427,13 @@ class Program
                             Layout();
                         }
                         break;
-
+                    /*
                     case ConsoleKey.U:
                         // To RAD
                         if (double.TryParse(expressionSolver.ToString(), out double intttVaalssss))
                         {
-                            expressionSolver = new StringBuilder((intttVaalssss * 180.0 / Math.PI).ToString());
+                       
+                        expressionSolver = new StringBuilder((Convert.ToDouble(intttVaalssss)).ToString());
                             History.Append("RAD(" + intttVaalssss + ")");
                             Console.Clear();
                             Console.WriteLine(expressionHistory + "                            -> Current Expression");
@@ -434,7 +448,11 @@ class Program
                         // To  GRAD
                         if (double.TryParse(expressionSolver.ToString(), out double inttttVaalssss))
                         {
-                            expressionSolver = new StringBuilder((inttttVaalssss = inttttVaalssss * 200.0 / Math.PI).ToString());
+                        double radianValue = inttttVaalssss * (Math.PI / 200);
+
+                        // Calculate Sin in gradient
+                        // double resultInGradient = Math.Sin(radianValue) * (10.0 / 9.0);
+                       expressionSolver = new StringBuilder((radianValue).ToString());
                             History.Append("GRAD(" + inttttVaalssss + ")");
                             Console.Clear();
                             Console.WriteLine(expressionHistory + "                            -> Current Expression");
@@ -444,7 +462,7 @@ class Program
                             Console.WriteLine(memoryExpression.ToString() + "                             -> Memory ");
                             Layout();
                         }
-                        break;
+                        break;*/
                     case ConsoleKey.J:
                         // e key
                         if (double.TryParse(expressionSolver.ToString(), out double intttttVaalssss))
@@ -488,19 +506,43 @@ class Program
                         //    Console.WriteLine($"Ctrl + {keyInfo.Key} pressed");
                         break;
                     case ConsoleKey.Z:
-                        // F-E
+                    // F-E
+                    if (expressionSolver.Length == 0) {
+                        if (IsFE == "EF")
+                        {
+                            IsFE = "FE";
+                        }
+                        else {
+                            IsFE = "EF";
+                        }
+                        Console.WriteLine($"FE Status ->{IsFE}");
+                    }
                         if (double.TryParse(expressionSolver.ToString(), out double sumaz))
+                        {
+                        if (IsFE == "EF")
                         {
                             expressionSolver = new StringBuilder(sumaz.ToString($"0.{new string('#', 8)}e+0"));
                             History.Append("F-E(" + sumaz.ToString("0.e+0") + ")");
                             Console.Clear();
                             Console.WriteLine(expressionHistory + "                            -> Current Expression");
-
+                            IsFE = "FE";
                             Console.WriteLine(expressionSolver + "                             -> Current Variable");
                             Console.WriteLine(History + "                                      -> History ");
                             Console.WriteLine(memoryExpression.ToString() + "                             -> Memory ");
                             Layout();
                         }
+                        else {
+                            expressionSolver = new StringBuilder((Convert.ToDouble(sumaz, System.Globalization.CultureInfo.InvariantCulture)).ToString());
+                            History.Append("E-F(" + (Convert.ToDouble(sumaz, System.Globalization.CultureInfo.InvariantCulture)).ToString() + ")");
+                            Console.Clear();
+                            Console.WriteLine(expressionHistory + "                            -> Current Expression");
+                            IsFE = "EF";
+                            Console.WriteLine(expressionSolver + "                             -> Current Variable");
+                            Console.WriteLine(History + "                                      -> History ");
+                            Console.WriteLine(memoryExpression.ToString() + "                             -> Memory ");
+                            Layout();
+                        }
+                    }
                         break;
                     case ConsoleKey.A:
                         // e
@@ -526,6 +568,7 @@ class Program
                         Layout();
 
                         break;
+                     
                 }
             }
             else if (specialCharecters == "Shift")
@@ -566,7 +609,7 @@ class Program
                         //ln
                         if (double.TryParse(expressionSolver.ToString(), out double intVal))
                         {
-                            expressionSolver = new StringBuilder(((double)Math.ILogB(intVal)).ToString());
+                            expressionSolver = new StringBuilder(((double)Math.Log(intVal)).ToString());
                             History.Append("ln(" + intVal + ")");
                             Console.Clear();
                             Console.WriteLine(expressionHistory + "                            -> Current Expression");
@@ -1021,7 +1064,6 @@ class Program
                             double gradianValue = (200 / Math.PI) * Math.Asin(1 / acscValue);
                             result = gradianValue * (Math.PI / 180);
                         }
-
                         expressionSolver = new StringBuilder(result.ToString());
                         History.Append("Acsc(" + acscValue + ")");
                         Console.Clear();
@@ -1474,7 +1516,10 @@ class Program
                     case ConsoleKey.OemPlus:
                     if (isPower == true)
                     {
+                        
                         expressionHistory.Append($"{expressionSolver.ToString()})");
+                        //Console.WriteLine(expressionHistory);
+                       
                         isPower = false;
                     }
                     else {
@@ -1576,14 +1621,11 @@ class Program
                             Layout();
                         }
                         break;
-                    //case ConsoleKey.F3:
-                    //case ConsoleKey.F4:
-                    //case ConsoleKey.F5:
+                    
                     case ConsoleKey.G:
                         // Clear Memory
                         memoryExpression.RemoveRange(0,memoryExpression.Count);
                         memoryExpression.Add(0.ToString());
-                        // pi
                         Console.Clear();
                         //expressionSolver.Append(Math.PI);
                         //History.Append(2);
@@ -1659,18 +1701,41 @@ class Program
                         break;
                     case ConsoleKey.I:
                     //(
-                   
-                        expressionHistory.Append(expressionSolver.ToString());
-                    if (expressionHistory[expressionHistory.Length - 1] == '/')
+                     expressionHistory.Append(expressionSolver.ToString());
+                    
+                    if (expressionHistory.Length>0 &&  expressionHistory[expressionHistory.Length - 1] == '/')
                     {
                         expressionHistory.Append("(");
                     }
-                    else if (expressionHistory.Length == 0)
+                    else if (  expressionHistory.Length == 0 )
                     {
+                       
                         expressionHistory.Append("1*(");
                     }
                     else {
-                        expressionHistory.Append("*(");
+                        if (expressionHistory[expressionHistory.Length - 1] == '+')
+                        {
+                            expressionHistory.Remove(expressionHistory.Length-1,1);
+                            expressionHistory.Append("+1*(");
+                        }
+                        else if (expressionHistory[expressionHistory.Length - 1] == '-')
+                        {
+                            expressionHistory.Remove(expressionHistory.Length - 1, 1);
+                            expressionHistory.Append("-1*(");
+                        }
+                        else if (expressionHistory[expressionHistory.Length - 1] == '*')
+                        {
+                            expressionHistory.Remove(expressionHistory.Length - 1, 1);
+                            expressionHistory.Append("*(");
+                        }
+                        else if (expressionHistory[expressionHistory.Length - 1] == '/')
+                        {
+                            expressionHistory.Remove(expressionHistory.Length - 1, 1);
+                            expressionHistory.Append("/(");
+                        }
+                        else {
+                            expressionHistory.Append("*(");
+                        }
                     }
                     
                         Console.Clear();
@@ -1792,7 +1857,7 @@ class Program
                     if (double.TryParse(expressionSolver.ToString(), out double intVsssssle))
                     {
                         expressionSolver = new StringBuilder((Math.Pow(intVsssssle, (double)1 / 3)).ToString());
-                        History.Append("\n UnderTriRoot -> (" + intVsssssle + ")");
+                        History.Append("\n UnderCubeRoot -> (" + intVsssssle + ")");
                         Console.Clear();
                         Console.WriteLine(expressionHistory + "   -> Current Expression");
 
@@ -1890,7 +1955,7 @@ class Program
                     break;
                 case ConsoleKey.F:
                     // e
-                    expressionSolver = new StringBuilder(((int)Math.PI).ToString(""));
+                    expressionSolver = new StringBuilder((Math.PI).ToString(""));
                     History.Append("PI(" + (Math.PI).ToString() + ")");
                     Console.Clear();
                     Console.WriteLine(expressionHistory + "                            -> Current Expression");
