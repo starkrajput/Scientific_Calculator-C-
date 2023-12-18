@@ -1,0 +1,6 @@
+Test Case 241:
+Sentence: vpcdnrujs   fxzlyydeebyoiyqkoetrsgxyswawgievynpvknvovfddtfgh p tc
+Words: etrsg, yqkoetrs
+Found 'etrsg' at index 29
+Found 'yqkoetrs' at index 25
+

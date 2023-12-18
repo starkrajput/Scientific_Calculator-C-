@@ -1,0 +1,7 @@
+Test Case 319:
+Sentence: ykwlr x ycuevxgvzdndeudxydeopijcgdfjwvyyoulhgdfylvmjgmgo ywkhsoimajnccqts hkqhzdutp
+Words: x, jn, nd
+Found 'x' at index 6
+Found 'jn' at index 66
+Found 'nd' at index 18
+

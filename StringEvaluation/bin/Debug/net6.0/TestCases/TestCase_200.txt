@@ -1,0 +1,6 @@
+Test Case 200:
+Sentence: pgyozaltcbcz kwzerbptwsn zonfumi z togren drzp ozfeixtxcraebszgfghrvcymcsixwqbvhxbvlryxgle
+Words: h, cra
+Found 'h' at index 65
+Found 'cra' at index 55
+

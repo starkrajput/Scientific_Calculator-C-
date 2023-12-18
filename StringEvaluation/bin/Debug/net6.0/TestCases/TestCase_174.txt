@@ -1,0 +1,8 @@
+Test Case 174:
+Sentence: aqtqgyfjfnwroppktwwbcoftlhqrbaxxuvqcxyeaeuhzylabtqtjulipqzsrhbckcvwwsoq
+Words: ckcvwwso, kc, ftlhqrba, qr
+Found 'ckcvwwso' at index 62
+Found 'kc' at index 63
+Found 'ftlhqrba' at index 22
+Found 'qr' at index 26
+

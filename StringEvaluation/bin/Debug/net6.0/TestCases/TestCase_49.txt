@@ -1,0 +1,8 @@
+Test Case 49:
+Sentence: qgksxpzctnjwhz afpr bhiffkddpgdhnkknmqnyigawhkbqrucoa xkqeuiumagguhrbnkoezyrmdbibfvepeurrtjl nzbrk
+Words: hiffk, y, fvepe, ibf
+Found 'hiffk' at index 21
+Found 'y' at index 39
+Found 'fvepe' at index 81
+Found 'ibf' at index 79
+

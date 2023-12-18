@@ -1,0 +1,9 @@
+Test Case 177:
+Sentence: ldscbukeknxysdjxmanfhlnqxwxom wndt mdcnkgvapaljmveowygknqounuxdetnh mrzhn mbh
+Words: jxmanfh, qxwx, h mrzh,  wnd, dsc
+Found 'jxmanfh' at index 14
+Found 'qxwx' at index 23
+Found 'h mrzh' at index 66
+Found ' wnd' at index 29
+Found 'dsc' at index 1
+

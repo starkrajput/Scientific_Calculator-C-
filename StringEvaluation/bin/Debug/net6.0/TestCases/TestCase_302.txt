@@ -1,0 +1,8 @@
+Test Case 302:
+Sentence: rcrknfkyfolswxletgdcysatsgtzacdxgso
+Words: folswxle, gtz, gtzacdx, knfkyfols
+Found 'folswxle' at index 8
+Found 'gtz' at index 25
+Found 'gtzacdx' at index 25
+Found 'knfkyfols' at index 3
+

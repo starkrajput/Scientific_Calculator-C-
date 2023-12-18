@@ -1,0 +1,9 @@
+Test Case 102:
+Sentence: dhdjmamxgnbnoctb dcuerigoxurdxwklnzcvirhxydtqnksdhnny
+Words: nbn, mamxgnbno, djmamx, erigoxu, igox
+Found 'nbn' at index 9
+Found 'mamxgnbno' at index 4
+Found 'djmamx' at index 2
+Found 'erigoxu' at index 20
+Found 'igox' at index 22
+

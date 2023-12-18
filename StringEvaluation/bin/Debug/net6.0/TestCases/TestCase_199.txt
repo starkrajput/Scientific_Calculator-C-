@@ -1,0 +1,9 @@
+Test Case 199:
+Sentence: ipboamcdgdnablbksgag
+Words: ab, ga, gdn, blb, b
+Found 'ab' at index 11
+Found 'ga' at index 17
+Found 'gdn' at index 8
+Found 'blb' at index 12
+Found 'b' at index 2
+

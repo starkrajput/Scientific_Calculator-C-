@@ -1,0 +1,6 @@
+Test Case 60:
+Sentence: ovowucikvcctldwnwzctfdibthgddko eeheunnlt wceo htcznvdumenpslxo iba
+Words: cikvcctl, eehe
+Found 'cikvcctl' at index 5
+Found 'eehe' at index 32
+

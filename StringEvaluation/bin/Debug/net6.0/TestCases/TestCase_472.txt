@@ -1,0 +1,9 @@
+Test Case 472:
+Sentence: wrxtkkhprdufwirydphhlucskhurmcinyazdexnshdiuxlkvslzkdvydht
+Words: l, y, skh, dufw, rydp
+Found 'l' at index 20
+Found 'y' at index 15
+Found 'skh' at index 23
+Found 'dufw' at index 9
+Found 'rydp' at index 14
+

@@ -1,0 +1,6 @@
+Test Case 445:
+Sentence: zsqvrcvkyscglsynubtuxxunagfzxhrelinqtyaucvoetfdsjknug
+Words: f, sjknug
+Found 'f' at index 26
+Found 'sjknug' at index 47
+

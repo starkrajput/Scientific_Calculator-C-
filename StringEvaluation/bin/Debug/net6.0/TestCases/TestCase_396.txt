@@ -1,0 +1,7 @@
+Test Case 396:
+Sentence: pfyvaickrgbrjtyllhbmhzkpmnqdsqhpn
+Words: tyllhb, zkpmnq, k
+Found 'tyllhb' at index 13
+Found 'zkpmnq' at index 21
+Found 'k' at index 7
+

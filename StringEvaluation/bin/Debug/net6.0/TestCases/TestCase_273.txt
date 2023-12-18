@@ -1,0 +1,9 @@
+Test Case 273:
+Sentence: ausaeb wulfsfl bgkyrvtdsewmhtqwoymcpv i
+Words: f, lf, ht, w, a
+Found 'f' at index 10
+Found 'lf' at index 9
+Found 'ht' at index 27
+Found 'w' at index 7
+Found 'a' at index 0
+

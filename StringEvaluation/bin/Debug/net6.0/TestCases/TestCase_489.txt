@@ -1,0 +1,8 @@
+Test Case 489:
+Sentence: bpaf bngxgqlhmtyfogr
+Words: t, bn, ql, g
+Found 't' at index 14
+Found 'bn' at index 5
+Found 'ql' at index 10
+Found 'g' at index 7
+

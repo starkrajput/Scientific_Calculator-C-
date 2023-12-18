@@ -1,0 +1,7 @@
+Test Case 371:
+Sentence: uubqfbr ojkddmkofdmknqmxjevlleue n dzzunrmhwdrlywsmonnxuffbykoverzqvvtxk
+Words: rmhwdrly, bqfb, z
+Found 'rmhwdrly' at index 40
+Found 'bqfb' at index 2
+Found 'z' at index 36
+

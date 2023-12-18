@@ -1,0 +1,9 @@
+Test Case 296:
+Sentence: zjcgxpubsimd hb fiacegfutjlpsvagt bmjtfhjavfppiyvnizasvse rirbelt zrc
+Words:  z, vf, jl, s, pp
+Found ' z' at index 65
+Found 'vf' at index 42
+Found 'jl' at index 25
+Found 's' at index 8
+Found 'pp' at index 44
+

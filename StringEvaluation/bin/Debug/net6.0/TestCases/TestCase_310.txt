@@ -1,0 +1,9 @@
+Test Case 310:
+Sentence: ilbdcihxhanyvzqyyybvlsfn vumhvydtezm dd vcgxykgwhrfgsflt
+Words: y, yb, y, c, vyd
+Found 'y' at index 11
+Found 'yb' at index 17
+Found 'y' at index 11
+Found 'c' at index 4
+Found 'vyd' at index 29
+

@@ -1,0 +1,7 @@
+Test Case 342:
+Sentence: mttszvkmzoaceqxoacwebps krfmpbjxizjgmmiambygaetifrxn
+Words: fmpbjxizj, xoacwebps , szvkmzo
+Found 'fmpbjxizj' at index 26
+Found 'xoacwebps ' at index 14
+Found 'szvkmzo' at index 3
+

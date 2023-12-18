@@ -1,0 +1,8 @@
+Test Case 240:
+Sentence: sldrbbefwvzob w sdabsrhzkauswfcdxkcyy q swe duuqladhgukmnqsiutboicn lqzztbfsmjvskhj 
+Words: rbb,  q , dhg, aus
+Found 'rbb' at index 3
+Found ' q ' at index 37
+Found 'dhg' at index 50
+Found 'aus' at index 25
+

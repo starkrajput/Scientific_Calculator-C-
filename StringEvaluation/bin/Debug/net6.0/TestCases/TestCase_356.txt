@@ -1,0 +1,6 @@
+Test Case 356:
+Sentence: tpczgviytakfeprequqfmcmnwihrclne syvmrtazcnkrbvpsudlzfcaqfmuwkubsaypuzjiftoe kyahqc fdkdjfboqx
+Words: kyahq, kya
+Found 'kyahq' at index 77
+Found 'kya' at index 77
+

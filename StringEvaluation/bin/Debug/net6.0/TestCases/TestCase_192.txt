@@ -1,0 +1,8 @@
+Test Case 192:
+Sentence: ofbvbitfmce nbktoyqexfzrwqwmehdyuxkeqxdp
+Words: ke, mc, bv, t
+Found 'ke' at index 34
+Found 'mc' at index 8
+Found 'bv' at index 2
+Found 't' at index 6
+

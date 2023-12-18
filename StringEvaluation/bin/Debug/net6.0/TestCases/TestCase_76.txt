@@ -1,0 +1,8 @@
+Test Case 76:
+Sentence: oqyfybesjxgqckenjmleewbovskgowmrjc vchilcrbsvalhzm wjgshjt
+Words: ow, eewbovs, b, e
+Found 'ow' at index 28
+Found 'eewbovs' at index 19
+Found 'b' at index 5
+Found 'e' at index 6
+

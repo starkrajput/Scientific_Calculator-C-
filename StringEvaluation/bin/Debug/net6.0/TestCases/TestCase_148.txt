@@ -1,0 +1,9 @@
+Test Case 148:
+Sentence: vropfytkumigdyxkvglrswujohipvjfrrvmxjkgnyctbfaeuhtkddmmdg ywgym ygmjevjgma
+Words: gy, gny, ddm, d, ywg
+Found 'gy' at index 60
+Found 'gny' at index 38
+Found 'ddm' at index 51
+Found 'd' at index 12
+Found 'ywg' at index 58
+

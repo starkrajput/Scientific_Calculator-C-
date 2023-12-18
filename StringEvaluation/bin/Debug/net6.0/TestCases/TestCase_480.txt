@@ -1,0 +1,7 @@
+Test Case 480:
+Sentence: ymuczbwaprfqjhmuqlvykcwjoseppxmdlkebvklcpwgdhtssmjbc w
+Words: f, dhtssm, seppxmd
+Found 'f' at index 10
+Found 'dhtssm' at index 43
+Found 'seppxmd' at index 25
+

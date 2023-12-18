@@ -1,0 +1,8 @@
+Test Case 66:
+Sentence: wqsalchopixrrfbxmzwxdjupksrvztc egyvcapycwtq
+Words: a, pycw, egyvca, o
+Found 'a' at index 3
+Found 'pycw' at index 38
+Found 'egyvca' at index 32
+Found 'o' at index 7
+

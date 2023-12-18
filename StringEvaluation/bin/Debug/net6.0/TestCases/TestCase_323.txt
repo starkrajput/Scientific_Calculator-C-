@@ -1,0 +1,7 @@
+Test Case 323:
+Sentence: cvd acsdmk bnjposczc
+Words: sc, acs, j
+Found 'sc' at index 16
+Found 'acs' at index 4
+Found 'j' at index 13
+

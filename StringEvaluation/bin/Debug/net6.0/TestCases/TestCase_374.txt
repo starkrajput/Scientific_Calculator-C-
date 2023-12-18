@@ -1,0 +1,8 @@
+Test Case 374:
+Sentence: wvkbgdojtdosezbuaehiitmzhzxcfhb
+Words: mzhzxcf, ezbuaeh, kbgdojt, wvkbgdojt
+Found 'mzhzxcf' at index 22
+Found 'ezbuaeh' at index 12
+Found 'kbgdojt' at index 2
+Found 'wvkbgdojt' at index 0
+

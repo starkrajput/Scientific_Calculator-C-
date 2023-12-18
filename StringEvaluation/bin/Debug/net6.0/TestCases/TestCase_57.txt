@@ -1,0 +1,6 @@
+Test Case 57:
+Sentence: j jccrvwnxfzwbzhbgbjcmpphqdewg yjz djbuvkabptbkirbvttctonetoqwxgdxdzs
+Words: ttcto, zhbgbjc
+Found 'ttcto' at index 51
+Found 'zhbgbjc' at index 14
+

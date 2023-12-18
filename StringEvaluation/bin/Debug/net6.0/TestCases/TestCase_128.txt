@@ -1,0 +1,6 @@
+Test Case 128:
+Sentence: hgmjxlocoznapkohvwdunofcarevtyfpbh xilcsa
+Words: jxlo, o
+Found 'jxlo' at index 3
+Found 'o' at index 6
+

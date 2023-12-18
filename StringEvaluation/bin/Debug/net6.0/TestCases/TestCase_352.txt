@@ -1,0 +1,7 @@
+Test Case 352:
+Sentence: iyfwlxzhsqfrlaejuyylvshxidxecyjstbnuikidx  yicbo
+Words: yi, lvsh, yic
+Found 'yi' at index 43
+Found 'lvsh' at index 19
+Found 'yic' at index 43
+

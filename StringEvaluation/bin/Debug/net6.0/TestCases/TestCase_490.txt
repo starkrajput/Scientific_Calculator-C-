@@ -1,0 +1,9 @@
+Test Case 490:
+Sentence:  b jsxs qsmsrfmkidxnlyla
+Words: s qsm, smsrfmkid, rfmkidxnl, jsxs qsms, lyl
+Found 's qsm' at index 6
+Found 'smsrfmkid' at index 9
+Found 'rfmkidxnl' at index 12
+Found 'jsxs qsms' at index 3
+Found 'lyl' at index 20
+

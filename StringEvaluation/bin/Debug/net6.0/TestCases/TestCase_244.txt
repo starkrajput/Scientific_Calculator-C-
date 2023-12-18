@@ -1,0 +1,6 @@
+Test Case 244:
+Sentence: eoemafnzxytqziyoqgidwpzazvxlzxavjuj mtvdayirwavajglyw dbbslaiqdoqceqroogjzvdlmfixyxaqipqjojmwtnohi
+Words: xytq, xyx
+Found 'xytq' at index 8
+Found 'xyx' at index 80
+

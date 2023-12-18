@@ -1,0 +1,7 @@
+Test Case 492:
+Sentence: fyvnswmiywhynuwoiewzbdxgmnuxmqhstjwek zhmzavimaiipetv xkewbrdscs
+Words: v xkewbr, tjwek zh, maiipe
+Found 'v xkewbr' at index 52
+Found 'tjwek zh' at index 32
+Found 'maiipe' at index 45
+

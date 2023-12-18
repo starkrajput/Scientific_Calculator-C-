@@ -1,0 +1,9 @@
+Test Case 293:
+Sentence: bpjjqdgftewqfdqhhltpawgpzzmgghugxosvtjipwcbufejeaeuvawvojn
+Words: qf, jj, qfd, pawg, hhl
+Found 'qf' at index 11
+Found 'jj' at index 2
+Found 'qfd' at index 11
+Found 'pawg' at index 19
+Found 'hhl' at index 15
+

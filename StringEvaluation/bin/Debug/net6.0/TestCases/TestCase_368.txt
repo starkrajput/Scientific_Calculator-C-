@@ -1,0 +1,9 @@
+Test Case 368:
+Sentence: sxlyouzsgmjumoqnpxkwnufvgxmzjzfabpmhvgkopcinqrriyshhelph
+Words: cinqrr, npxkwnu, iyshh, um, qnpxkwn
+Found 'cinqrr' at index 41
+Found 'npxkwnu' at index 15
+Found 'iyshh' at index 47
+Found 'um' at index 11
+Found 'qnpxkwn' at index 14
+

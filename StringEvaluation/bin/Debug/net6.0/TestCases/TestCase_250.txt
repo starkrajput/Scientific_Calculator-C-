@@ -1,0 +1,8 @@
+Test Case 250:
+Sentence: dhatlq kewvpfxmdqktflnisgdiwwvcfnrvqiqndfaa th dtchpyoajtnwkvkiuziotdtsacd oamw
+Words: a t, d, hpyo, dqktf
+Found 'a t' at index 42
+Found 'd' at index 0
+Found 'hpyo' at index 50
+Found 'dqktf' at index 15
+

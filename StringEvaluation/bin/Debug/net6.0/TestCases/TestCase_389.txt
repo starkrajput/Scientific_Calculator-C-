@@ -1,0 +1,7 @@
+Test Case 389:
+Sentence: uxuesadunpfjxzlkkekdalqndc mjgn mt qftexxfsvtmq ludmfhxjogoepaqojzdvndgyt
+Words: hx, esad, ue
+Found 'hx' at index 53
+Found 'esad' at index 3
+Found 'ue' at index 2
+

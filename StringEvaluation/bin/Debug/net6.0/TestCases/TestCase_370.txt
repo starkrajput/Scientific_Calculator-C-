@@ -1,0 +1,6 @@
+Test Case 370:
+Sentence: tj  eovuesupwyfscqzcbtmwbegq tkdr mvg
+Words: be, r mv
+Found 'be' at index 24
+Found 'r mv' at index 32
+

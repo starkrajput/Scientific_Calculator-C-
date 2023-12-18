@@ -1,0 +1,6 @@
+Test Case 48:
+Sentence: dybzvfnpijrpvzfyuiwueeacwqcpdlwdjrdxbtmrpwktrpcvw u
+Words: xbtmrpwkt, f
+Found 'xbtmrpwkt' at index 35
+Found 'f' at index 5
+

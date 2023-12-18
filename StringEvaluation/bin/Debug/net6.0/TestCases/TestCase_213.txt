@@ -1,0 +1,9 @@
+Test Case 213:
+Sentence: zgvacpczwsclkvwfitib
+Words: vwf, cl, clk, pc, pcz
+Found 'vwf' at index 13
+Found 'cl' at index 10
+Found 'clk' at index 10
+Found 'pc' at index 5
+Found 'pcz' at index 5
+

@@ -1,0 +1,7 @@
+Test Case 450:
+Sentence: kdupfgmfvt al sqbwvwzpemtdoo gzfzbzlibosqbyiaafkqfxukyfvuqesfybbigwvkgj avuqy
+Words: iaafkq, oo gzfz,  sqbwvwzp
+Found 'iaafkq' at index 43
+Found 'oo gzfz' at index 26
+Found ' sqbwvwzp' at index 13
+

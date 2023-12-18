@@ -1,0 +1,7 @@
+Test Case 496:
+Sentence: zsnmkirmaarwzjuipgvhpu wtyzfjca ddxjmiegjkgenkcksalmlz kurkdyr shmwedoptqexohbxmelgmkbtc s
+Words: irmaa, l, mlz
+Found 'irmaa' at index 5
+Found 'l' at index 50
+Found 'mlz' at index 51
+

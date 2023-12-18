@@ -1,0 +1,7 @@
+Test Case 494:
+Sentence: mzu kbockldxzgqiwmuxfouqhzvql hwyuoysswfjeiulkxmopeozizzpctbc
+Words: i, fo,  k
+Found 'i' at index 15
+Found 'fo' at index 20
+Found ' k' at index 3
+

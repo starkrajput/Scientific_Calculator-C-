@@ -1,0 +1,8 @@
+Test Case 110:
+Sentence: elmdpnaxu nuzy vwziqsqamfbryxrwgafgwpuvaxmevtwtqp pqgkk isjtkfertmsi
+Words: u nuzy, jtkfe, fer, sqa
+Found 'u nuzy' at index 8
+Found 'jtkfe' at index 58
+Found 'fer' at index 61
+Found 'sqa' at index 20
+

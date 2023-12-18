@@ -1,0 +1,7 @@
+Test Case 210:
+Sentence: fnkacdinimnpxhwritgdxedzckhn
+Words: gdx, kacdinim, ritgdxedzc
+Found 'gdx' at index 18
+Found 'kacdinim' at index 2
+Found 'ritgdxedzc' at index 15
+

@@ -1,0 +1,11 @@
+C:\Users\DELL\source\repos\ScientificHelper\bin\Debug\net6.0\ScientificHelper.deps.json
+C:\Users\DELL\source\repos\ScientificHelper\bin\Debug\net6.0\ScientificHelper.dll
+C:\Users\DELL\source\repos\ScientificHelper\bin\Debug\net6.0\ScientificHelper.pdb
+C:\Users\DELL\source\repos\ScientificHelper\obj\Debug\net6.0\ScientificHelper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\ScientificHelper\obj\Debug\net6.0\ScientificHelper.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\ScientificHelper\obj\Debug\net6.0\ScientificHelper.AssemblyInfo.cs
+C:\Users\DELL\source\repos\ScientificHelper\obj\Debug\net6.0\ScientificHelper.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\ScientificHelper\obj\Debug\net6.0\ScientificHelper.dll
+C:\Users\DELL\source\repos\ScientificHelper\obj\Debug\net6.0\refint\ScientificHelper.dll
+C:\Users\DELL\source\repos\ScientificHelper\obj\Debug\net6.0\ScientificHelper.pdb
+C:\Users\DELL\source\repos\ScientificHelper\obj\Debug\net6.0\ref\ScientificHelper.dll

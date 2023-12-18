@@ -1,0 +1,9 @@
+Test Case 386:
+Sentence: wso mmbighmwoaosyqxkmekzfwxjpwtqsitdzhhifibedenmxvjanzxzbniijldmb vlqkrccurajpau
+Words: jpwtqs, zhhif, osyqxkm, syqxkme, s
+Found 'jpwtqs' at index 27
+Found 'zhhif' at index 36
+Found 'osyqxkm' at index 14
+Found 'syqxkme' at index 15
+Found 's' at index 1
+

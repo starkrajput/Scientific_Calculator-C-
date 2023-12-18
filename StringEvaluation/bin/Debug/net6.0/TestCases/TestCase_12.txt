@@ -1,0 +1,7 @@
+Test Case 12:
+Sentence: vvwefaximmkhnomjpfkgcorbzuglpcrpxqydwqmjaib
+Words: i, ximmkhno, we
+Found 'i' at index 7
+Found 'ximmkhno' at index 6
+Found 'we' at index 2
+

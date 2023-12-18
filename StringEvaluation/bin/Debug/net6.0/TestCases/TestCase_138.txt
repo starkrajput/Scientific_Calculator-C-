@@ -1,0 +1,6 @@
+Test Case 138:
+Sentence: tk ycmmmvcenttmrxpiayz qks juqnqdzijwwumatzkvcgothgajjouzmwhsjmeuasjnmehiouo dq
+Words: t, jw
+Found 't' at index 0
+Found 'jw' at index 35
+

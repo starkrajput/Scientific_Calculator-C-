@@ -1,0 +1,7 @@
+Test Case 69:
+Sentence: bspckgolxalkhsrbndx mtgkqycbumibu grjnbjq tg uohbjyi epqnyjdwtwzkpouidgtuwcfjed ypgvgmohdyyof
+Words: tgkq,  gr,  ypg
+Found 'tgkq' at index 21
+Found ' gr' at index 33
+Found ' ypg' at index 79
+

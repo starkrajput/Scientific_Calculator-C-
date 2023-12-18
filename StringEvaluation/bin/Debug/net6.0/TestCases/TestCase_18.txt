@@ -1,0 +1,8 @@
+Test Case 18:
+Sentence: awb bsqsummactdnalxtbneqhkziygzwimfutxmg stev
+Words: e, d, bsqsumma, awb
+Found 'e' at index 22
+Found 'd' at index 14
+Found 'bsqsumma' at index 4
+Found 'awb' at index 0
+

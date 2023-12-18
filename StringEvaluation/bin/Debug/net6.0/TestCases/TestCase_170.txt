@@ -1,0 +1,8 @@
+Test Case 170:
+Sentence: ovskgttuwjydwqofknj e wqazkybwnfpggnkxkqehl mkif gqsijy ogyklatxdt fahtnctbmbqvarwiop
+Words: t, g, f, y 
+Found 't' at index 5
+Found 'g' at index 4
+Found 'f' at index 15
+Found 'y ' at index 54
+

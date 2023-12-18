@@ -1,0 +1,8 @@
+Test Case 172:
+Sentence:  cbqdicfzcrwhfkxwrtr rdovyyorlxsxycbszvqgnoljcdabmpyfveayudzgsbnguctsvhzjvouvvmk hfg smto iemgng
+Words: f, x, fzc, zv
+Found 'f' at index 7
+Found 'x' at index 15
+Found 'fzc' at index 7
+Found 'zv' at index 37
+

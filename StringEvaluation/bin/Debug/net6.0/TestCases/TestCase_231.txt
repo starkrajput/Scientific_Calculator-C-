@@ -1,0 +1,7 @@
+Test Case 231:
+Sentence: xalrbtndmvpnsoaihzlwlohgzxjactycubdkvtrkvhc cmsxdmbyqzqlmgatgcmftdxweedbhmurdim
+Words: jac, qlm, dmb
+Found 'jac' at index 26
+Found 'qlm' at index 54
+Found 'dmb' at index 48
+

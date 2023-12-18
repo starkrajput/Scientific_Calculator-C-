@@ -1,0 +1,9 @@
+Test Case 470:
+Sentence: owjaigw iimapmpypsuorflnsoepicznqdnqaulkpdzgxxqiaujclwewah xmt usqs ckmvggob
+Words: jclwewah, igw , ujc, d, dzgxx
+Found 'jclwewah' at index 50
+Found 'igw ' at index 4
+Found 'ujc' at index 49
+Found 'd' at index 33
+Found 'dzgxx' at index 41
+

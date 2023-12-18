@@ -1,0 +1,7 @@
+Test Case 360:
+Sentence: ocydwbzibjqcprhk pvbotiadpibbznqcrysgtwjt
+Words: bbz, rys, g
+Found 'bbz' at index 27
+Found 'rys' at index 33
+Found 'g' at index 36
+

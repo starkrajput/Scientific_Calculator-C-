@@ -1,0 +1,6 @@
+Test Case 499:
+Sentence: bk cdjd ilrtfohsnwlbetxysrcvxtiusibdhiqbgdqfzziriawedfozpbzokjmttnhgenrhuita cjgh
+Words: riaw, ohsnw
+Found 'riaw' at index 47
+Found 'ohsnw' at index 13
+

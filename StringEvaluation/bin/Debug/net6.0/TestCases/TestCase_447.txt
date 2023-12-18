@@ -1,0 +1,6 @@
+Test Case 447:
+Sentence:   qijekecbmmkxunvhofhaxxpnhllnilyduuttov whpwrqzayjbtn pmqohifnmlnitm
+Words: ifnmlni, zayjbtn p
+Found 'ifnmlni' at index 60
+Found 'zayjbtn p' at index 47
+

@@ -1,0 +1,6 @@
+Test Case 283:
+Sentence: grxiaxntggal uswzauuybsnpukah
+Words: tgga, uybsnp
+Found 'tgga' at index 7
+Found 'uybsnp' at index 19
+

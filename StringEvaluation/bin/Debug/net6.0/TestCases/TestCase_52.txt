@@ -1,0 +1,7 @@
+Test Case 52:
+Sentence: wsphheaaj fyechqxvgfmxhaqykkb llrefakkic hox xnorjyhfiynbomywavazjvqwyqrzydhcu
+Words: kkb, mxhaq, llre
+Found 'kkb' at index 26
+Found 'mxhaq' at index 20
+Found 'llre' at index 30
+

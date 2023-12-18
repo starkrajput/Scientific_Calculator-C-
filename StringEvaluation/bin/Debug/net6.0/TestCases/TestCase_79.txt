@@ -1,0 +1,8 @@
+Test Case 79:
+Sentence: nfgzqhphq nryaxlamhyugdxpurtpkpo f xgxxoktegviqwpok ayuyifsdsbs esizwuhgohbnjzebakaophrpnpuzrtksvwy
+Words: uhg, z, l, yi
+Found 'uhg' at index 69
+Found 'z' at index 3
+Found 'l' at index 15
+Found 'yi' at index 55
+

@@ -1,0 +1,6 @@
+Test Case 298:
+Sentence: stmq acxrtcarlpoxe cytbdfuqcjaajqdwtaeloobjyfcqqipoujih
+Words: o, xe c
+Found 'o' at index 15
+Found 'xe c' at index 16
+

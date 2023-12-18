@@ -1,0 +1,8 @@
+Test Case 65:
+Sentence: w femgqmkmklubxggcyedd pexleoi
+Words: cyedd, lu,  p, ex
+Found 'cyedd' at index 17
+Found 'lu' at index 11
+Found ' p' at index 22
+Found 'ex' at index 24
+

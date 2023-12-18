@@ -1,0 +1,7 @@
+Test Case 53:
+Sentence: rqzznowsrkiutaxoc tkdkrjyggwucyvmnfoekkzaljmojcptjrhuna ywduacghohiztvplwo  weyuqgz
+Words: wo  weyuq, tvplwo, oc 
+Found 'wo  weyuq' at index 72
+Found 'tvplwo' at index 68
+Found 'oc ' at index 15
+

@@ -1,0 +1,8 @@
+Test Case 100:
+Sentence:  bygviqieyqsnbblptiyqthchcrjkfluftrjkehcyytpyw xhozl bfnupnlmnuzhlhwqtmbejxjvid
+Words: t, qt, j, t
+Found 't' at index 17
+Found 'qt' at index 20
+Found 'j' at index 27
+Found 't' at index 17
+

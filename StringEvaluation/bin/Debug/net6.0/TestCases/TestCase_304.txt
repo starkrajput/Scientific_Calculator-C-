@@ -1,0 +1,6 @@
+Test Case 304:
+Sentence: qaywjydksmqramdzvscnjgrorav tflvvscocxtqytkxu 
+Words: mqr, coc
+Found 'mqr' at index 9
+Found 'coc' at index 34
+

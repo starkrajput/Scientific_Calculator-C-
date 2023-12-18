@@ -1,0 +1,6 @@
+Test Case 292:
+Sentence: eddfxcldugiggotwtqltgpfiahcwcglsqvpqsck
+Words: pqsck, k
+Found 'pqsck' at index 34
+Found 'k' at index 38
+

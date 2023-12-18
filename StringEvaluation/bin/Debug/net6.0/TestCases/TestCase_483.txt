@@ -1,0 +1,6 @@
+Test Case 483:
+Sentence: d fw htiqwpymmglqwcnorrb nfqowqpcjs wvrqnpcycvuivhamucpetsscdyozfasuxfxbltboqdmdwp  utugfexetizqvp
+Words:   u, ymmg
+Found '  u' at index 82
+Found 'ymmg' at index 11
+

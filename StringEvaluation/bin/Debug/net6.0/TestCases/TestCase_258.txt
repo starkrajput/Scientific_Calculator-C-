@@ -1,0 +1,7 @@
+Test Case 258:
+Sentence: sluggxwulviqgreqyvxfcdeddbrzsmm tcsmgbofnheltc
+Words: g, c, reqyv
+Found 'g' at index 3
+Found 'c' at index 20
+Found 'reqyv' at index 13
+

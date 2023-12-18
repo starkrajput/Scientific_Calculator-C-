@@ -1,0 +1,8 @@
+Test Case 51:
+Sentence: shzeuoktpfcylbifbn nkhf lfooxvqezmqstuqniycnnkozfeukr cngilnxbfinewwmdra ckmcmujwq  ngv
+Words: ewwmdra , mujwq  , ewwmdra ck, f
+Found 'ewwmdra ' at index 65
+Found 'mujwq  ' at index 77
+Found 'ewwmdra ck' at index 65
+Found 'f' at index 9
+

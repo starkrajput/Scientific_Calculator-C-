@@ -1,0 +1,6 @@
+Test Case 111:
+Sentence: fexmbmkybhpdfuafsdzyskoinxoxkbmd xwmkbdxaqhl jaqaihlwflckcaobwiti
+Words: b,  jaqaih
+Found 'b' at index 4
+Found ' jaqaih' at index 44
+

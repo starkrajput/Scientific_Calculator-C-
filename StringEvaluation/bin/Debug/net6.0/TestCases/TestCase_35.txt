@@ -1,0 +1,9 @@
+Test Case 35:
+Sentence: autsvxjdqlcnnofzzvzi axakaowcffiudlqfrxpzkvlfhpt
+Words: vlfh, vzi axa, cff, ff, z
+Found 'vlfh' at index 42
+Found 'vzi axa' at index 17
+Found 'cff' at index 28
+Found 'ff' at index 29
+Found 'z' at index 15
+

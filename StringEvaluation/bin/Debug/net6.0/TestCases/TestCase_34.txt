@@ -1,0 +1,8 @@
+Test Case 34:
+Sentence: hbu smegpgroowbpjekwpznyanfrezqkoeylp
+Words: p, pj, ey, o
+Found 'p' at index 8
+Found 'pj' at index 15
+Found 'ey' at index 33
+Found 'o' at index 11
+

@@ -1,0 +1,9 @@
+Test Case 196:
+Sentence: a vclyjopqeh myckpdvcaybqkquvjleqajdudpndbjmogmwktnog etaqefiyprmytlq pydit catvjustmylha azshnciqu
+Words: t c, o, iypr, ciq,  
+Found 't c' at index 74
+Found 'o' at index 7
+Found 'iypr' at index 60
+Found 'ciq' at index 95
+Found ' ' at index 1
+

@@ -1,0 +1,9 @@
+Test Case 476:
+Sentence: qil sn oqnvslkpmxnlm
+Words: il sn,  , pmxn, q, q
+Found 'il sn' at index 1
+Found ' ' at index 3
+Found 'pmxn' at index 14
+Found 'q' at index 0
+Found 'q' at index 0
+

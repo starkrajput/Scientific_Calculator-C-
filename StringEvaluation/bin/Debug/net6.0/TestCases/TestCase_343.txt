@@ -1,0 +1,8 @@
+Test Case 343:
+Sentence: urre japuylghixzodarqlesgmugvcwbidv sg wdiftxlk vtcybcbbfwzaotiylbcp
+Words: bc, xz, w, gh
+Found 'bc' at index 52
+Found 'xz' at index 14
+Found 'w' at index 30
+Found 'gh' at index 11
+

@@ -1,0 +1,6 @@
+Test Case 125:
+Sentence: ttb oicfegaptxwyyzeaydqv ylovxu ti sbrclbnjomjdfpyx bxtwjcuorceyuukjbsxrygdcouxjexnglnfywyyplrs
+Words: wyyz, xu 
+Found 'wyyz' at index 14
+Found 'xu ' at index 29
+

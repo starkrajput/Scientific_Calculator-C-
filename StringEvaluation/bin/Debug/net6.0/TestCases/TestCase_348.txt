@@ -1,0 +1,6 @@
+Test Case 348:
+Sentence: dumzomrcfthanghybwtpchaqvxrqwb efnnfvrlfs
+Words: ybw, f
+Found 'ybw' at index 15
+Found 'f' at index 8
+

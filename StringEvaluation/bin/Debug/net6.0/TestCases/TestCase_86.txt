@@ -1,0 +1,8 @@
+Test Case 86:
+Sentence: ltdxqgqnjgmykuarmrueffjphtmzf udrtaai iie
+Words: gq, jphtmzf , rtaai ii, f
+Found 'gq' at index 5
+Found 'jphtmzf ' at index 22
+Found 'rtaai ii' at index 32
+Found 'f' at index 20
+

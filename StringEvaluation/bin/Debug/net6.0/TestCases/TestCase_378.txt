@@ -1,0 +1,9 @@
+Test Case 378:
+Sentence: yazwpdasddakl dqhfhdeozdlnvonrfttn
+Words: pd, ln, d, zw, as
+Found 'pd' at index 4
+Found 'ln' at index 24
+Found 'd' at index 5
+Found 'zw' at index 2
+Found 'as' at index 6
+

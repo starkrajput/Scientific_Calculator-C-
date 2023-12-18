@@ -1,0 +1,9 @@
+Test Case 89:
+Sentence: ywhowumctehpao rmpcqdl qperhllzkzlvec lng rsgfrxzyruojmx
+Words: z, lv, lz,  l, e
+Found 'z' at index 30
+Found 'lv' at index 33
+Found 'lz' at index 29
+Found ' l' at index 37
+Found 'e' at index 9
+

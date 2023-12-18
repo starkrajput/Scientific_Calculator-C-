@@ -1,0 +1,8 @@
+Test Case 467:
+Sentence: dduw uittngxpyzwwoqmlnojtchdeywgzv ibnwuygf cbpcq
+Words: g, v i, uit, uyg
+Found 'g' at index 10
+Found 'v i' at index 33
+Found 'uit' at index 5
+Found 'uyg' at index 39
+

@@ -1,0 +1,9 @@
+Test Case 222:
+Sentence: vbedtjhdpbkekxusjceaxzitrjhunrqzpdsmeejjufxvxqqdtforqjgutnrvasoxmxbakqlourbdpbzgrzqkmkmzlkzisbexpc
+Words: bexp, xus, asoxmx, kqlour, nr
+Found 'bexp' at index 93
+Found 'xus' at index 13
+Found 'asoxmx' at index 60
+Found 'kqlour' at index 68
+Found 'nr' at index 28
+

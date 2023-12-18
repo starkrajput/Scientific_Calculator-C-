@@ -1,0 +1,6 @@
+Test Case 189:
+Sentence: tojhglxruavndmvvaqprnazlgbvpkaofgearinv pusieosroxfzqbywj mxaxpcgs kgikldxp ifrmxvfzuqclneyzlub
+Words: z, ey
+Found 'z' at index 22
+Found 'ey' at index 89
+

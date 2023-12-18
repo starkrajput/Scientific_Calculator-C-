@@ -1,0 +1,9 @@
+Test Case 493:
+Sentence: fpapdjtvrvaym at mtzcjs heuyplvmbixgtalybbiwoxzbbzasciaayyytmrrpob pkvdf
+Words: d, bbiwoxzbb, iaa, he, t m
+Found 'd' at index 4
+Found 'bbiwoxzbb' at index 40
+Found 'iaa' at index 53
+Found 'he' at index 24
+Found 't m' at index 15
+

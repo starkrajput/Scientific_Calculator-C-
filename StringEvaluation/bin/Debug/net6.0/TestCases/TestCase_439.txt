@@ -1,0 +1,9 @@
+Test Case 439:
+Sentence: orhgeuiuwnm  ib uauhzytwvuibymzfudgseueewturwtquvahywdclmytjyxdzpg
+Words: ywdclmytj, dgseueewt, nm  i, wdclmytjy, by
+Found 'ywdclmytj' at index 51
+Found 'dgseueewt' at index 33
+Found 'nm  i' at index 9
+Found 'wdclmytjy' at index 52
+Found 'by' at index 27
+

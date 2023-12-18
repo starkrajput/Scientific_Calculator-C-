@@ -1,0 +1,6 @@
+Test Case 187:
+Sentence: apfr uft nsdlokblkwgxdioueijnvchqwdivckfxmldjpummfcqwlyviewctnysdmck cxedinwvsurppulrn kqurnptbkau
+Words: ummf, kq
+Found 'ummf' at index 46
+Found 'kq' at index 87
+

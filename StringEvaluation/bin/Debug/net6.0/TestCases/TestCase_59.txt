@@ -1,0 +1,6 @@
+Test Case 59:
+Sentence: omyzw xplmehcyibyntiljk dtsjmibbmah ieghuffftnbnbiidw
+Words: tnbnb, xp
+Found 'tnbnb' at index 44
+Found 'xp' at index 6
+

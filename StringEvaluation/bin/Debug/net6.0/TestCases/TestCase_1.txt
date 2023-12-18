@@ -1,0 +1,8 @@
+Test Case 1:
+Sentence: ziapxd tzvcwffmjvnylfpfzupwnaucszxhnf
+Words: v, t, vcw, auc
+Found 'v' at index 9
+Found 't' at index 7
+Found 'vcw' at index 9
+Found 'auc' at index 28
+

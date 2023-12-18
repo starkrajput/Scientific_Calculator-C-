@@ -1,0 +1,7 @@
+Test Case 207:
+Sentence: gaxmsikrepweqluexnqnmry gzyt ctpjk ymrcjgfmwntqufcpxliyccen  edflvmanrefrftvpqbpjucgqjwappo
+Words: pjk ym, weq, i
+Found 'pjk ym' at index 31
+Found 'weq' at index 10
+Found 'i' at index 5
+

@@ -1,0 +1,6 @@
+Test Case 251:
+Sentence: hatpffgzdlcscxsvkvzgyj whbcpvcwusokuiivgevatwkgwcqjcxoi ie lg
+Words: lcscxsv, wcqjc
+Found 'lcscxsv' at index 9
+Found 'wcqjc' at index 47
+

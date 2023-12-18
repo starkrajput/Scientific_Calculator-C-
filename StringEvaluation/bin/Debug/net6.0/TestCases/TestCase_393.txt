@@ -1,0 +1,8 @@
+Test Case 393:
+Sentence: rjadzzwitqzcekspxrzot bdeywaibmspxlp xaoiwybhrtufsifczefmvwgeonidjdxajeeja x
+Words: s, ybh, iwyb, lp xa
+Found 's' at index 14
+Found 'ybh' at index 42
+Found 'iwyb' at index 40
+Found 'lp xa' at index 34
+

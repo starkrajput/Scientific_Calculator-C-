@@ -1,0 +1,6 @@
+Test Case 45:
+Sentence: cb dp ydabxuxuiprxfhbkicrlxpeuyhflbyeitgdo ryi joanzjbxkeniudtbehylnnzq dzeidtnt wicqfzjz
+Words: nnzq dze, lnnzq dze
+Found 'nnzq dze' at index 67
+Found 'lnnzq dze' at index 66
+

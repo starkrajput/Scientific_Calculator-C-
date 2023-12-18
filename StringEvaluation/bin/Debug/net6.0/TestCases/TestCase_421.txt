@@ -1,0 +1,8 @@
+Test Case 421:
+Sentence: fgfs fkgswxezrruwaaxf pgffcxf fuletmenfrnirqqasxgtov wviacdcxkfhyaktrljvwuwa pwseluy
+Words: o, s , gf, fg
+Found 'o' at index 50
+Found 's ' at index 3
+Found 'gf' at index 1
+Found 'fg' at index 0
+

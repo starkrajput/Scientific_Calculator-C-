@@ -1,0 +1,6 @@
+Test Case 353:
+Sentence: kvfcntmfurmrodaltfhwesgbuhbixikkkwd xdbwewkwrj
+Words: lt, ew
+Found 'lt' at index 15
+Found 'ew' at index 40
+

@@ -1,0 +1,7 @@
+Test Case 21:
+Sentence: vktewickbqdiztbgzipqlommm
+Words: q, p, i
+Found 'q' at index 9
+Found 'p' at index 18
+Found 'i' at index 5
+

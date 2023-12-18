@@ -1,0 +1,6 @@
+Test Case 150:
+Sentence: tnrpvkpjanjxuyhxkggsapscjhxx vfxqu sxagosfoewjzkmhtdotqghotfchomrzpammhnpfyhwqcynziqt
+Words: xkggsaps, jxuy
+Found 'xkggsaps' at index 15
+Found 'jxuy' at index 10
+

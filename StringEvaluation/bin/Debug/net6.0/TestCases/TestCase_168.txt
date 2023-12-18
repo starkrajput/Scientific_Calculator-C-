@@ -1,0 +1,8 @@
+Test Case 168:
+Sentence: nzyktyuwtgjybloxbrjedpmvnspv vixianezjijqgoxlidchwbuhms
+Words: edpmvnsp, brjedpmv, nzyktyuw, yuw
+Found 'edpmvnsp' at index 19
+Found 'brjedpmv' at index 16
+Found 'nzyktyuw' at index 0
+Found 'yuw' at index 5
+

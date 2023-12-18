@@ -1,0 +1,6 @@
+Test Case 158:
+Sentence: wedcxutxndhta qopzidholo osbxfzpbbyflnoc hood nxdxrbioentgpbwivczrzeqtzrjitwv zvctyuvc
+Words:  , z
+Found ' ' at index 13
+Found 'z' at index 17
+

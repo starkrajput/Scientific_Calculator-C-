@@ -1,0 +1,9 @@
+Test Case 252:
+Sentence: qqtzlwlkackibqkmsdoyeczxsfqhulexo
+Words: oyec, ul, cki, ibqkms, msdoy
+Found 'oyec' at index 18
+Found 'ul' at index 28
+Found 'cki' at index 9
+Found 'ibqkms' at index 11
+Found 'msdoy' at index 15
+

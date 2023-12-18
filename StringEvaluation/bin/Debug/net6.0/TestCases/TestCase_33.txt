@@ -1,0 +1,8 @@
+Test Case 33:
+Sentence: vdzocfchfjdoteacwtkrhjajrgelapjunihwseyntesrcr
+Words: krhjajrge, rhjajrge, pjunihw, elapjunih
+Found 'krhjajrge' at index 18
+Found 'rhjajrge' at index 19
+Found 'pjunihw' at index 29
+Found 'elapjunih' at index 26
+

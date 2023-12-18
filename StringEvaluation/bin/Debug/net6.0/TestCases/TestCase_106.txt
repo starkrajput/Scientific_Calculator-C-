@@ -1,0 +1,8 @@
+Test Case 106:
+Sentence: ktbavlgvlgkepez kgwhmvtbjtjbcpulttgcjqkau wvotkrinhobyidohhqfiisdsbmmmf
+Words: tjbc, av, kri, lgvlgk
+Found 'tjbc' at index 25
+Found 'av' at index 3
+Found 'kri' at index 46
+Found 'lgvlgk' at index 5
+

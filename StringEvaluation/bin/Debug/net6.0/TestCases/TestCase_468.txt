@@ -1,0 +1,6 @@
+Test Case 468:
+Sentence: ogvifrrxevddg exdhcaa
+Words: dg exd, ifr
+Found 'dg exd' at index 11
+Found 'ifr' at index 3
+

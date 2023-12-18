@@ -1,0 +1,9 @@
+Test Case 205:
+Sentence: gzcbg sukocirkxsmevjbatriaaozmpjgmrlpgvnwuyr ahaizxvamtflu
+Words: bg , xs, mtfl, pjg, amt
+Found 'bg ' at index 3
+Found 'xs' at index 14
+Found 'mtfl' at index 53
+Found 'pjg' at index 30
+Found 'amt' at index 52
+

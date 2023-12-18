@@ -1,0 +1,9 @@
+Test Case 403:
+Sentence: hmxmoaabevnz fglknlwgmlzfrawnjenixicxcixrvadpqxxcrc pqnoblpyzfrhqcqrpvqoxhrpnogdmmcmwpbnpsb dsd
+Words: xxc, zf, m, h, cq
+Found 'xxc' at index 46
+Found 'zf' at index 23
+Found 'm' at index 1
+Found 'h' at index 0
+Found 'cq' at index 65
+

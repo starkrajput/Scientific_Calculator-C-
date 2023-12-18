@@ -1,0 +1,6 @@
+Test Case 328:
+Sentence: meqla   psfqoamsmakemrndcxmyzughrccsbc h tnr
+Words: h tn, amsmake
+Found 'h tn' at index 39
+Found 'amsmake' at index 13
+

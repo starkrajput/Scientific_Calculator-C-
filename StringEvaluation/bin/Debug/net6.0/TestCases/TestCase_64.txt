@@ -1,0 +1,8 @@
+Test Case 64:
+Sentence: fbjmtjzmyzolbelbehlet edvbhdyfebr qjwsaaraqdailc
+Words: myz, jwsa, ail, aaraq
+Found 'myz' at index 7
+Found 'jwsa' at index 35
+Found 'ail' at index 44
+Found 'aaraq' at index 38
+

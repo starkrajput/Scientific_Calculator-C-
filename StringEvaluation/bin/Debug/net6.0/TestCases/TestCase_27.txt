@@ -1,0 +1,9 @@
+Test Case 27:
+Sentence: wdinmwnxag rwhxduwntbdeuxpamdffyxerrmzpxtynkfsuaxsflphgkchxhtprccdpl
+Words: g, ty, lph, ffy, l
+Found 'g' at index 9
+Found 'ty' at index 40
+Found 'lph' at index 51
+Found 'ffy' at index 29
+Found 'l' at index 51
+

@@ -1,0 +1,8 @@
+Test Case 260:
+Sentence: skgryldofdnsmycshrgevciatcwdkdxrex
+Words: hrgevci, c, vciatcwdkd, cshrgevci
+Found 'hrgevci' at index 16
+Found 'c' at index 14
+Found 'vciatcwdkd' at index 20
+Found 'cshrgevci' at index 14
+

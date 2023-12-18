@@ -1,0 +1,8 @@
+Test Case 109:
+Sentence: tewjjvcuvnsxcisqplwuhgik cnuxz vd xbrfotlcblqaqyploejglswruyrxrbnhcdovjhkjjahkwcunvqjviedcehtmu s h
+Words: s,  h, hg, l
+Found 's' at index 10
+Found ' h' at index 97
+Found 'hg' at index 20
+Found 'l' at index 17
+

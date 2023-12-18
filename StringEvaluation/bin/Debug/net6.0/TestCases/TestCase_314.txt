@@ -1,0 +1,8 @@
+Test Case 314:
+Sentence: etuolwgkvprykdlb corucboexyjmxj uzbnwvgyzomgllgqlbuasyaugtgrgbwpvfqaotryltadgrtu
+Words: gbwpvf, o, v, yl
+Found 'gbwpvf' at index 60
+Found 'o' at index 3
+Found 'v' at index 8
+Found 'yl' at index 71
+

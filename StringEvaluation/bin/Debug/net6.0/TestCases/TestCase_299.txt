@@ -1,0 +1,8 @@
+Test Case 299:
+Sentence: jpbhyfccsqmxlnvjlirqfpdn
+Words: jp, csq, h, li
+Found 'jp' at index 0
+Found 'csq' at index 7
+Found 'h' at index 3
+Found 'li' at index 16
+

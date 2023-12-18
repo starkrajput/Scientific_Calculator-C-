@@ -1,0 +1,8 @@
+Test Case 301:
+Sentence: opcekkstfjeyetnxgxwfeubmyrknqlhxgddbevrsqs
+Words: p, tnx, j, k
+Found 'p' at index 1
+Found 'tnx' at index 13
+Found 'j' at index 9
+Found 'k' at index 4
+

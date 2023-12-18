@@ -1,0 +1,6 @@
+Test Case 405:
+Sentence: jiqhxcxgmjehakwsxrepwjvf
+Words: xre, j
+Found 'xre' at index 16
+Found 'j' at index 0
+

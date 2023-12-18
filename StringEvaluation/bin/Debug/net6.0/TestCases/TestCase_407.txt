@@ -1,0 +1,8 @@
+Test Case 407:
+Sentence: xavsxkhgwb wmywmqpvrqbdvknrsybyhnkukxqrsauwg tu owr tmmvxozxwpijcieubaxtb k
+Words:  , au, rsauwg , mvxo
+Found ' ' at index 10
+Found 'au' at index 40
+Found 'rsauwg ' at index 38
+Found 'mvxo' at index 54
+

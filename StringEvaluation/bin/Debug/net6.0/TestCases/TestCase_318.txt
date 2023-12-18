@@ -1,0 +1,6 @@
+Test Case 318:
+Sentence: tbhrxivbv ictzcujfrkiechaobclgri adt riehlzvxprjucvrha
+Words: ri adt, vbv 
+Found 'ri adt' at index 30
+Found 'vbv ' at index 6
+

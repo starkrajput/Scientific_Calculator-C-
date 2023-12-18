@@ -1,0 +1,9 @@
+Test Case 169:
+Sentence: hgtbhirgfophknoeeeidtfbj eddhzkj
+Words: k, d, j, rg, e
+Found 'k' at index 12
+Found 'd' at index 19
+Found 'j' at index 23
+Found 'rg' at index 6
+Found 'e' at index 15
+

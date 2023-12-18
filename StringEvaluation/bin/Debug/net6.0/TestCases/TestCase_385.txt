@@ -1,0 +1,8 @@
+Test Case 385:
+Sentence: vgvozqfvgkkqutnlqxequxmche  wwlngqn tvjmkzbh
+Words: q, jm, g, q
+Found 'q' at index 5
+Found 'jm' at index 38
+Found 'g' at index 1
+Found 'q' at index 5
+

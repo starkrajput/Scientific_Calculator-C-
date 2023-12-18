@@ -1,0 +1,8 @@
+Test Case 361:
+Sentence: bmagwloefiygcckgv jxbefftio cmrjwbfhytj cvuv yzhlaosbxzb horxlqyikgipcygfdhosgpv 
+Words: h, gfdh, ygfdh, xzb 
+Found 'h' at index 35
+Found 'gfdh' at index 71
+Found 'ygfdh' at index 70
+Found 'xzb ' at index 53
+

@@ -1,0 +1,9 @@
+Test Case 384:
+Sentence: cawxlczoym ufrfqreirg qlrkpcpwoatusxivzuguak yqiswbnctxgxq
+Words: zuguak , w, swbnc, oym u, i
+Found 'zuguak ' at index 38
+Found 'w' at index 2
+Found 'swbnc' at index 48
+Found 'oym u' at index 7
+Found 'i' at index 18
+

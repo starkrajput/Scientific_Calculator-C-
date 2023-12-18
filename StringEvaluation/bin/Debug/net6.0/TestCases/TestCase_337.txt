@@ -1,0 +1,8 @@
+Test Case 337:
+Sentence:  rqmqkjhnjmiqldghtyreljocdiqdlugzxzwvmkgrpca o
+Words: d, ght, qld, ty
+Found 'd' at index 14
+Found 'ght' at index 15
+Found 'qld' at index 12
+Found 'ty' at index 17
+

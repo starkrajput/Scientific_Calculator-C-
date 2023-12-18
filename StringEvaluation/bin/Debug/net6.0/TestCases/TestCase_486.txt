@@ -1,0 +1,9 @@
+Test Case 486:
+Sentence: muqwacngbdogp qkwpxljhixtrdxbtolmaqcltgctgrihidh ckthtovji zpumridq
+Words: ckth, dh , u, ac, idh
+Found 'ckth' at index 49
+Found 'dh ' at index 46
+Found 'u' at index 1
+Found 'ac' at index 4
+Found 'idh' at index 45
+

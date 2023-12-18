@@ -1,0 +1,8 @@
+Test Case 433:
+Sentence: umvhwemlwkpdbycwemsvyh rjuemvyc fbfabtqviafrdaiospkurdgtyhdaksq
+Words: pkurdgtyhd, spkurdgtyh, yc fbfabt, c fbfabt
+Found 'pkurdgtyhd' at index 49
+Found 'spkurdgtyh' at index 48
+Found 'yc fbfabt' at index 29
+Found 'c fbfabt' at index 30
+

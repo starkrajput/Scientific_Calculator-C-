@@ -1,0 +1,7 @@
+Test Case 404:
+Sentence: nockwuk zzkiflgibyvsuueywbqrpnanxmybbbonf tcextcqnhixeopmeicb spfywwdevomoc
+Words: nxm, cb , y
+Found 'nxm' at index 31
+Found 'cb ' at index 59
+Found 'y' at index 17
+

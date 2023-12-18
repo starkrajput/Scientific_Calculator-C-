@@ -1,0 +1,9 @@
+Test Case 415:
+Sentence: lublwxos fl udpfb ifsdagkoegvif
+Words: fb ifsdagk, koegv, koe, ifs, lwx
+Found 'fb ifsdagk' at index 15
+Found 'koegv' at index 24
+Found 'koe' at index 24
+Found 'ifs' at index 18
+Found 'lwx' at index 3
+

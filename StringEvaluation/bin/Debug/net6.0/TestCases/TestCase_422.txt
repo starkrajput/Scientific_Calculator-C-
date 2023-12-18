@@ -1,0 +1,6 @@
+Test Case 422:
+Sentence: chikyzqckujjnmgjvlftzwyalxgmysfnbarttvfknbcpys llpjrhqrlxzvpwdvlihdgxiftug  uypodamshmzchp
+Words: a, hi
+Found 'a' at index 23
+Found 'hi' at index 1
+

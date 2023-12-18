@@ -1,0 +1,6 @@
+Test Case 324:
+Sentence: hgktwxwzdwwzxkvsbchopbgucikqbbxlthzzarhuuygxosmohukfr iosfuroyjpiqsuoqcnmgdiqejvpbr
+Words: qcnm, b
+Found 'qcnm' at index 69
+Found 'b' at index 16
+

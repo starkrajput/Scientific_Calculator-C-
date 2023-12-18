@@ -1,0 +1,6 @@
+Test Case 249:
+Sentence: wgxkxrcoxmbgqxwhwcidqmspygzdoovjxjdtmbybcrqooudajitmv
+Words: q, r
+Found 'q' at index 12
+Found 'r' at index 5
+

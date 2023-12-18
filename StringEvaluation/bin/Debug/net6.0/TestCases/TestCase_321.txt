@@ -1,0 +1,6 @@
+Test Case 321:
+Sentence: lmbadhnyuxsenyumzuuyurypafpsbhembhjtcdbbsiriyoyevkltsbepwxafphwb 
+Words: z, t
+Found 'z' at index 16
+Found 't' at index 35
+

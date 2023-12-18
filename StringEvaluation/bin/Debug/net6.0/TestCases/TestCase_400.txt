@@ -1,0 +1,7 @@
+Test Case 400:
+Sentence: fjavbhca lhgfyzhrjhtdycqopxurehdurciaflxkbasjzhboygxxquzckause
+Words: asjzhboygx, ciaflxkbas, a lhgfyz
+Found 'asjzhboygx' at index 42
+Found 'ciaflxkbas' at index 34
+Found 'a lhgfyz' at index 7
+

@@ -1,0 +1,9 @@
+Test Case 20:
+Sentence: yhniykvkltnobnkoyxw ydoifodqrbyvzwbykbtkwomuwjipqzfujujeokjwmvimudqbjqmwgwklhzgbaibgljeouge
+Words: rb, obnko, ai, g, mvim
+Found 'rb' at index 28
+Found 'obnko' at index 11
+Found 'ai' at index 80
+Found 'g' at index 72
+Found 'mvim' at index 60
+

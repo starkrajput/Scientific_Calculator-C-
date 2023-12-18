@@ -1,0 +1,7 @@
+Test Case 388:
+Sentence: tnnqilhkvqywocbajfomfdeo al
+Words: aj, o a, nqil
+Found 'aj' at index 15
+Found 'o a' at index 23
+Found 'nqil' at index 2
+

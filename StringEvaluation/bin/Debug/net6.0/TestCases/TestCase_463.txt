@@ -1,0 +1,8 @@
+Test Case 463:
+Sentence: tnkobqjtyfggsdebenoarzrifsgkzevdmyrdt rbktqbjocoqoorfb zx
+Words: jt, dmyr, fsgk, tqbjo
+Found 'jt' at index 6
+Found 'dmyr' at index 31
+Found 'fsgk' at index 24
+Found 'tqbjo' at index 41
+

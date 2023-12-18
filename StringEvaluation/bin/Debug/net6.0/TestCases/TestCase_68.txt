@@ -1,0 +1,7 @@
+Test Case 68:
+Sentence: a bdkftcdwhicezeeqzlemvdycejbxusgk ngubqmjfwb iyggoqst
+Words: cejb, eq, y
+Found 'cejb' at index 25
+Found 'eq' at index 16
+Found 'y' at index 24
+

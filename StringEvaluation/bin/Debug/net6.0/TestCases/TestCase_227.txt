@@ -1,0 +1,7 @@
+Test Case 227:
+Sentence: u twrymjdpmvyctpycuvvhtsfdxzsaphupasrctmqcgwxqttghvjesith odwlipqujwjslhm lfqnfoowpbdigorcuoaaqwozf
+Words: phu, dxz, u
+Found 'phu' at index 30
+Found 'dxz' at index 25
+Found 'u' at index 0
+

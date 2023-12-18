@@ -1,0 +1,9 @@
+Test Case 184:
+Sentence: nawigrtzpb jnaokxaibrmmwtmfwnylybitsmamyksfpqblpfndqshte lyaidvbkgzw
+Words: xaibrmmwt, dqshte l, wtmfwnyly, mmwtmfw, b jna
+Found 'xaibrmmwt' at index 16
+Found 'dqshte l' at index 50
+Found 'wtmfwnyly' at index 23
+Found 'mmwtmfw' at index 21
+Found 'b jna' at index 9
+

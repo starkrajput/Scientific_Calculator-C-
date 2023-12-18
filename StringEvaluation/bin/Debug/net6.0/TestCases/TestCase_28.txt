@@ -1,0 +1,9 @@
+Test Case 28:
+Sentence: asjpgfrfuqkksoglhvwujz lbwervhcpkhunkgbxftykhltfo jkzl dypvtuxpxz qeemzp
+Words: o, w, kzl, f, ee
+Found 'o' at index 13
+Found 'w' at index 18
+Found 'kzl' at index 51
+Found 'f' at index 5
+Found 'ee' at index 67
+

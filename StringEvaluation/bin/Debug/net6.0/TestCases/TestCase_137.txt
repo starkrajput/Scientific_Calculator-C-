@@ -1,0 +1,8 @@
+Test Case 137:
+Sentence: aseiyhsnxodlquibjgdfwvuguejlhkyelcufzskrgnqcvxsbjl gbgrfxlffuakcooqileddnbx
+Words: x, gd, l , x
+Found 'x' at index 8
+Found 'gd' at index 17
+Found 'l ' at index 49
+Found 'x' at index 8
+

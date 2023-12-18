@@ -1,0 +1,6 @@
+Test Case 307:
+Sentence: rlr kqfveuzjwgnzjaac kxvxla 
+Words: a , wgn
+Found 'a ' at index 26
+Found 'wgn' at index 12
+

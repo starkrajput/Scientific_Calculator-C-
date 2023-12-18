@@ -1,0 +1,6 @@
+Test Case 188:
+Sentence: zjnzyzhytswyhuuramyziytclqrcabpr oqdqvixtdngoofvbcwmhoxnyswzbzyptdmuwzg
+Words: wyhuur, cabpr
+Found 'wyhuur' at index 10
+Found 'cabpr' at index 27
+

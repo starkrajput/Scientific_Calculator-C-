@@ -1,0 +1,8 @@
+Test Case 245:
+Sentence: i aocfmismmcqzygbupbeplhgmcxmkujiwjiuvvilngzfkqcmvwmtk f olcitzdsljix
+Words: qz, kq, g, c
+Found 'qz' at index 12
+Found 'kq' at index 45
+Found 'g' at index 15
+Found 'c' at index 4
+

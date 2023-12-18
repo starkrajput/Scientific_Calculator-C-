@@ -1,0 +1,7 @@
+Test Case 6:
+Sentence: lyuhkbkuqiranfwywuwn
+Words: f, uhkbk, fw
+Found 'f' at index 13
+Found 'uhkbk' at index 2
+Found 'fw' at index 13
+

@@ -1,0 +1,8 @@
+Test Case 263:
+Sentence: zksijlaeqnuiqwuuxcl ukgrgnkppvativndrentoguaklumkvubkujqiolicefruzskfcvyapiunwfut cwllzqqzpmwfzsg
+Words: cefru, uux,  cwl, kgrgn
+Found 'cefru' at index 60
+Found 'uux' at index 14
+Found ' cwl' at index 81
+Found 'kgrgn' at index 21
+

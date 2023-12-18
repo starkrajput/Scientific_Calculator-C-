@@ -1,0 +1,8 @@
+Test Case 97:
+Sentence: zvfouojzhcfmrf trslsiokdvkks
+Words: zh, zv,  t, mr
+Found 'zh' at index 7
+Found 'zv' at index 0
+Found ' t' at index 14
+Found 'mr' at index 11
+

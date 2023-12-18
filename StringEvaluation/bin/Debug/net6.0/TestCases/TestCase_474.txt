@@ -1,0 +1,9 @@
+Test Case 474:
+Sentence: tq xivhaeyn aaunhnfwwkighvxogyrmwsrwdfpwirednhiuaauquggguepkbdlizjyrlax snnbfrenorrloounzqwxdqomgik
+Words: k, bf, guepkb, ue, s
+Found 'k' at index 21
+Found 'bf' at index 75
+Found 'guepkb' at index 55
+Found 'ue' at index 56
+Found 's' at index 33
+

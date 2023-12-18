@@ -1,0 +1,6 @@
+Test Case 228:
+Sentence: kevcvuxodajnhiiadvohzvfrifrkfngnfrebjuebky
+Words: v, cvux
+Found 'v' at index 2
+Found 'cvux' at index 3
+

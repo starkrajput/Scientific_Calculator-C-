@@ -1,0 +1,9 @@
+Test Case 399:
+Sentence: chlmkiatlhmvtpnmsber a gkaxkhnvnbatgreswirkr nnkkxqybmrmz ynlkqfqqsmhsvncuiiwib qs cyebkpyz
+Words: xq, r, s, z, qq
+Found 'xq' at index 49
+Found 'r' at index 19
+Found 's' at index 16
+Found 'z' at index 56
+Found 'qq' at index 64
+

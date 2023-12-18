@@ -1,0 +1,6 @@
+Test Case 78:
+Sentence: ddahdhipfqsxg ljuzlf vwzslqlzeyvaaazqgxkthclhljyxsa efupaypbtodhkhgokwhhbrkhfylqjcmfvtgm ekqkvg
+Words: t, bto
+Found 't' at index 40
+Found 'bto' at index 59
+

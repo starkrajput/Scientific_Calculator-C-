@@ -1,0 +1,7 @@
+Test Case 338:
+Sentence: mp xyhxaxvokdgxesnfelycdlizjqvbqhbes ujrmwfbfqjblagvfrsfldruhhjujil
+Words: b, o, u
+Found 'b' at index 30
+Found 'o' at index 10
+Found 'u' at index 37
+

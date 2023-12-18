@@ -1,0 +1,9 @@
+Test Case 300:
+Sentence: pqkpjvtecwentolfleewefvgyqh pguvhpddxbwcuk rgbntlrklotzvqtosfmioariacl
+Words: tosfmi, ent, kpjvt, jvtecw, tosf
+Found 'tosfmi' at index 57
+Found 'ent' at index 10
+Found 'kpjvt' at index 2
+Found 'jvtecw' at index 4
+Found 'tosf' at index 57
+

@@ -1,0 +1,8 @@
+Test Case 17:
+Sentence: dfeshmfi al vkjpvgjhqlfmkxwbwwegudgq
+Words:  al vkjp, bwweg, i a, shmf
+Found ' al vkjp' at index 8
+Found 'bwweg' at index 27
+Found 'i a' at index 7
+Found 'shmf' at index 3
+

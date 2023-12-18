@@ -1,0 +1,7 @@
+Test Case 340:
+Sentence: jdtnrwzjokfazpzbjzljdnuwsmc gmevvcimbqttzrqvwwwqythajmklea mfsq y
+Words: haj, z, zrqvw
+Found 'haj' at index 50
+Found 'z' at index 6
+Found 'zrqvw' at index 40
+

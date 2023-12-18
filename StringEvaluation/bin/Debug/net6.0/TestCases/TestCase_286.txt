@@ -1,0 +1,8 @@
+Test Case 286:
+Sentence: lahbvfjyaauubrgdkmtraqitlhyefdzjuwfqxtaaep niukdyiztjz
+Words: wf, aauu, a, efd
+Found 'wf' at index 33
+Found 'aauu' at index 8
+Found 'a' at index 1
+Found 'efd' at index 27
+

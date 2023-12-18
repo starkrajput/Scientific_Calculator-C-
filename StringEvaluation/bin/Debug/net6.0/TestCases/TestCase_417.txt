@@ -1,0 +1,9 @@
+Test Case 417:
+Sentence: ccfzjodypgvmhwexsxffdqz klurrkirzpgdgultnomvqkmkqcqkebgaborrdwekmgexsuvkhb qtfwmpaytrceluzg
+Words: f, mgexs, nom, yp, trce
+Found 'f' at index 2
+Found 'mgexs' at index 64
+Found 'nom' at index 40
+Found 'yp' at index 7
+Found 'trce' at index 83
+

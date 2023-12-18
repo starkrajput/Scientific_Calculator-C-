@@ -1,0 +1,6 @@
+Test Case 99:
+Sentence: xyymwqrfgqovpgfqiysedvduvgsuvgdknqtnbayzpzcgkkhftikfh xjvrokjkkfibaddrumfanfaauxwgyajrfojthebn
+Words: ikf, hfti
+Found 'ikf' at index 49
+Found 'hfti' at index 46
+

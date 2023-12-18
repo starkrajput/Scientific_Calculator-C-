@@ -1,0 +1,8 @@
+Test Case 412:
+Sentence: iobffsfwzzzlllztugurzelipnsyzuol
+Words: el, ztugurzel, syz, z
+Found 'el' at index 21
+Found 'ztugurzel' at index 14
+Found 'syz' at index 26
+Found 'z' at index 8
+

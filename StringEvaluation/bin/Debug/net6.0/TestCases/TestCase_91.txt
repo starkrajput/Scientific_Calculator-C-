@@ -1,0 +1,9 @@
+Test Case 91:
+Sentence: gxdxlnufcuwcxzosrdtnrkclcqqxnjrgfzhtkbner aotgsqf
+Words: gsq, tnrk, ner aotg, otgs, jrgfzht
+Found 'gsq' at index 45
+Found 'tnrk' at index 18
+Found 'ner aotg' at index 38
+Found 'otgs' at index 43
+Found 'jrgfzht' at index 29
+

@@ -1,0 +1,6 @@
+Test Case 72:
+Sentence:  pofjwojocob ioinbutvxptzk gwtamqrrjchgxucrzcynt sizfgleuzdrcriso
+Words: ob , o
+Found 'ob ' at index 10
+Found 'o' at index 2
+

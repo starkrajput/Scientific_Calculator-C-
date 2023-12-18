@@ -1,0 +1,6 @@
+Test Case 103:
+Sentence: agmsdgnydzm zhqdiecvplnbmaqmwrdqbwgxpwwpycgrbtvyewzarrmicbyykdvhbb
+Words: w, zh
+Found 'w' at index 28
+Found 'zh' at index 12
+

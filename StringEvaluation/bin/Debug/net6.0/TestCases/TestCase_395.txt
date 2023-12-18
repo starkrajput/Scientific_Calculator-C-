@@ -1,0 +1,8 @@
+Test Case 395:
+Sentence: kcbsqcpqfpniujolowliu hemyynmbdakruwjligbotcfzysuqn
+Words: e, nmb, fz, s
+Found 'e' at index 23
+Found 'nmb' at index 27
+Found 'fz' at index 44
+Found 's' at index 3
+

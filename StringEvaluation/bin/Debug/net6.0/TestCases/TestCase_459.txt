@@ -1,0 +1,6 @@
+Test Case 459:
+Sentence: zyiamhz mizydkkpbdphpf leimisknllsdlozdjtwormogkdabzvpksk tkvmoimtnpjtgfhmkrs rviereepmtrbzttks
+Words: s, bdphp
+Found 's' at index 28
+Found 'bdphp' at index 16
+

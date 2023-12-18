@@ -1,0 +1,9 @@
+Test Case 217:
+Sentence: cf regwhv kkt qidqpvjr tbroubpgmxtavylxjxm nmwqiodxqdubajdocqwvrca jzsdesxnsg jnaboglh 
+Words: t, pg, xns, xm, gw
+Found 't' at index 12
+Found 'pg' at index 29
+Found 'xns' at index 73
+Found 'xm' at index 40
+Found 'gw' at index 5
+

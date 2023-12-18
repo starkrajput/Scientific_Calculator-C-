@@ -1,0 +1,6 @@
+Test Case 43:
+Sentence: tgkzmgxztjwtluuctigjzxmabic uqyxajjbpoefgjjbvby apddpvncgaldmjeb
+Words: mabic, b
+Found 'mabic' at index 22
+Found 'b' at index 24
+

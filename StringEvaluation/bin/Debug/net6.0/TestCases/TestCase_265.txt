@@ -1,0 +1,9 @@
+Test Case 265:
+Sentence: aaumdwqzbqttbmrtnreuolshvaeokbvwjgcwiafohgtzdmqmbvhnnxkedoe ewbeir
+Words: ohgt, euo, aumd, t, tzdm
+Found 'ohgt' at index 39
+Found 'euo' at index 18
+Found 'aumd' at index 1
+Found 't' at index 10
+Found 'tzdm' at index 42
+

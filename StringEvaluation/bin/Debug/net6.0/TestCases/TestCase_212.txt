@@ -1,0 +1,8 @@
+Test Case 212:
+Sentence: fpeuiowxcgzzkoizygyjgtdivdtvkdcmjmubqjwwtdfxehgpdyhkexaicbbzeprhsflujhfnizdzxlydqmke iekhioophhdqx
+Words: mj, dq, fl, x
+Found 'mj' at index 31
+Found 'dq' at index 79
+Found 'fl' at index 65
+Found 'x' at index 7
+

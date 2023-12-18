@@ -1,0 +1,9 @@
+Test Case 312:
+Sentence: hd rvbhbfyctxqldidrnbppcquadhlhahbejxujepxbbvkmazhpbnakvzkftfbxdkuwxswyielqnomhc 
+Words: rnbppc, tfbxdk, pc, bx, nakvzk
+Found 'rnbppc' at index 18
+Found 'tfbxdk' at index 59
+Found 'pc' at index 22
+Found 'bx' at index 61
+Found 'nakvzk' at index 52
+

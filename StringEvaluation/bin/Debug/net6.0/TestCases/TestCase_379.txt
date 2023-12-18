@@ -1,0 +1,6 @@
+Test Case 379:
+Sentence: zopgundrcvsiorscammgdxurqu jqtzxpjaveuzfxoiuriawrefcg
+Words: mmg, r
+Found 'mmg' at index 17
+Found 'r' at index 7
+

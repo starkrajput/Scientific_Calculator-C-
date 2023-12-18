@@ -1,0 +1,8 @@
+Test Case 266:
+Sentence: mlsilrebmacyswznzdrtpuh v vcsaoyzfdgbnwrigspgewtfzmiennlmwue irjtwkvfrjffyojxtv
+Words: nnl, lrebm, yswzn, vcs
+Found 'nnl' at index 53
+Found 'lrebm' at index 4
+Found 'yswzn' at index 11
+Found 'vcs' at index 26
+

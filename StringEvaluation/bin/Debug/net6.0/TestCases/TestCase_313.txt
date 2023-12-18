@@ -1,0 +1,6 @@
+Test Case 313:
+Sentence: zadjokqudxqanlngciuigjpcdvpxvjsmxvkd
+Words: j, ad
+Found 'j' at index 3
+Found 'ad' at index 1
+

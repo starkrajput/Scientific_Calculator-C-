@@ -1,0 +1,6 @@
+Test Case 367:
+Sentence: qundwzecxemarpyhsvu tiy zmayziwpgckhxjfoxv
+Words: qu, wz
+Found 'qu' at index 0
+Found 'wz' at index 4
+

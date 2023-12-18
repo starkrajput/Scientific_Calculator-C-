@@ -1,0 +1,7 @@
+Test Case 87:
+Sentence: mjlcoesbgtchlnppqncyzusccxqqfayogwybmbtvv
+Words: gw, c, hlnp
+Found 'gw' at index 32
+Found 'c' at index 3
+Found 'hlnp' at index 11
+

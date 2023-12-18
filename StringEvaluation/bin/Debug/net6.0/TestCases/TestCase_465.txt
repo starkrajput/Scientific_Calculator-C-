@@ -1,0 +1,9 @@
+Test Case 465:
+Sentence: ztzkaikmmmmiqtzcgjsngpt rbioyagkixwurnmizlkd
+Words: cgjs, nmizlk, izl, gpt, mmm
+Found 'cgjs' at index 15
+Found 'nmizlk' at index 37
+Found 'izl' at index 39
+Found 'gpt' at index 20
+Found 'mmm' at index 7
+

@@ -1,0 +1,9 @@
+Test Case 84:
+Sentence: brir atnevrncerqpqapfsjhqgxferrlbmxfyjlychlrznukvsbmvkw
+Words: e, jh, lrzn, yjlyc, a
+Found 'e' at index 8
+Found 'jh' at index 22
+Found 'lrzn' at index 42
+Found 'yjlyc' at index 36
+Found 'a' at index 5
+

@@ -1,0 +1,6 @@
+Test Case 484:
+Sentence: thmrjrhvodhhbuaumvurdlulmm
+Words: hbu, dhhbuau
+Found 'hbu' at index 11
+Found 'dhhbuau' at index 9
+

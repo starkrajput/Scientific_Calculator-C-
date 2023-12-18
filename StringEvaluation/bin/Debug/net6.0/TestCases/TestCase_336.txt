@@ -1,0 +1,8 @@
+Test Case 336:
+Sentence: bkddzsorpyssedkeoepgwjfptgheaubvdneoemzoeibycsg  nxuqecfszeqsqgkb aujfn
+Words: s, a, csg  , qsq
+Found 's' at index 5
+Found 'a' at index 28
+Found 'csg  ' at index 44
+Found 'qsq' at index 59
+

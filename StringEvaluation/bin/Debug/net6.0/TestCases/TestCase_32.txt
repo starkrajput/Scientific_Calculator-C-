@@ -1,0 +1,9 @@
+Test Case 32:
+Sentence: jsmittqmlgyfvaitexfqlgwfje velpcldxzdpmjrwwwpbzp rgopskuifanumxuiloqhvpby
+Words: fq, fje ve, umxuil, fj, tqmlgyfva
+Found 'fq' at index 18
+Found 'fje ve' at index 23
+Found 'umxuil' at index 60
+Found 'fj' at index 23
+Found 'tqmlgyfva' at index 5
+

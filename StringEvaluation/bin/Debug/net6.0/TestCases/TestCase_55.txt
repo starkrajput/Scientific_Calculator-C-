@@ -1,0 +1,6 @@
+Test Case 55:
+Sentence: ymdfzjqd elrqbjmrxszywwb plqhoaxkawjcroj la jebt
+Words:  e, b
+Found ' e' at index 8
+Found 'b' at index 13
+

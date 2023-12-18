@@ -1,0 +1,7 @@
+Test Case 218:
+Sentence: duucvfrndrurozfpvtiapbrwbrocufbtdhenalmbijvbmzcpe
+Words: ufbt, fpv, a
+Found 'ufbt' at index 28
+Found 'fpv' at index 14
+Found 'a' at index 19
+

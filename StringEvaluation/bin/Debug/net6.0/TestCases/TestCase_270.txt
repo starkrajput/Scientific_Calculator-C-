@@ -1,0 +1,6 @@
+Test Case 270:
+Sentence: csjuxxrmvzjrqvyquiwewwdkp wkoenobxwrt
+Words: w, w
+Found 'w' at index 18
+Found 'w' at index 18
+

@@ -1,0 +1,7 @@
+Test Case 206:
+Sentence: kznzujrzomoeophmguaoaa cavxczotmpycwrhg dlesy iwabdccfgulbxtes
+Words: dccf, a ca, cfg
+Found 'dccf' at index 50
+Found 'a ca' at index 21
+Found 'cfg' at index 52
+

@@ -1,0 +1,8 @@
+Test Case 418:
+Sentence: umgppsvcnilwpeutzeeyx
+Words: ppsvcn, lwp, gppsv, vcn
+Found 'ppsvcn' at index 3
+Found 'lwp' at index 10
+Found 'gppsv' at index 2
+Found 'vcn' at index 6
+

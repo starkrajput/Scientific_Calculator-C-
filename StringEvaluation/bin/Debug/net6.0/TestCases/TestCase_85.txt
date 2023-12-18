@@ -1,0 +1,7 @@
+Test Case 85:
+Sentence: gscmlxjmjkxlhmyqtiwmurs vp  rlxkarbqjdkeh fsspmwtdmnzeyprhqchovd tb
+Words: x, gscm, g
+Found 'x' at index 5
+Found 'gscm' at index 0
+Found 'g' at index 0
+

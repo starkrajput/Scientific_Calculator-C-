@@ -1,0 +1,7 @@
+Test Case 488:
+Sentence: kzaeo sfzkzonw wkckztnwcfkcbdnhrsnpqaipecrecfvaq firi ivwlhxccpw opkjiwkcesipgqxvsfwq
+Words: kzonw w, kcesi, nhrsn
+Found 'kzonw w' at index 9
+Found 'kcesi' at index 71
+Found 'nhrsn' at index 29
+

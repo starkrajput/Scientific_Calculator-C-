@@ -1,0 +1,8 @@
+Test Case 233:
+Sentence: rfhqh olmerbcxuhgrsqmdvcpirwxihkh psnoatdg
+Words: t, qmd, hgrsqmdv, erbcxu
+Found 't' at index 39
+Found 'qmd' at index 19
+Found 'hgrsqmdv' at index 15
+Found 'erbcxu' at index 9
+

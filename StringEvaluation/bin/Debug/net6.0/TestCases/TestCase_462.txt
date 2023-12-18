@@ -1,0 +1,7 @@
+Test Case 462:
+Sentence: cxlrxqktpqsewzgtpirq
+Words: tpq, k, r
+Found 'tpq' at index 7
+Found 'k' at index 6
+Found 'r' at index 3
+

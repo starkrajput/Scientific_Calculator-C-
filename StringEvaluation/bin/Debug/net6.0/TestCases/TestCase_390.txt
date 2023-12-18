@@ -1,0 +1,6 @@
+Test Case 390:
+Sentence: cgwaghrvty svdhqishveoeieqtxnanynwjzq wjdkyjljueqiitphjtwk
+Words: itphj, jt
+Found 'itphj' at index 50
+Found 'jt' at index 54
+

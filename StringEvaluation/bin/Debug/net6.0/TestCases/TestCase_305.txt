@@ -1,0 +1,8 @@
+Test Case 305:
+Sentence: jlzarculwfbfsgxwuymyam qjdef xanjijebbhgjfcnnlpnrozuewtlhli iyjbllns cxjm ruawqcnga
+Words: ewt, lwfbfs, njijebbh,  xa
+Found 'ewt' at index 52
+Found 'lwfbfs' at index 7
+Found 'njijebbh' at index 31
+Found ' xa' at index 28
+

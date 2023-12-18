@@ -1,0 +1,9 @@
+Test Case 22:
+Sentence: ukduqoiyjhyyqpqlxrxiyl
+Words: yqpql, qoiyj, hyy, rxi, iyjhy
+Found 'yqpql' at index 11
+Found 'qoiyj' at index 4
+Found 'hyy' at index 9
+Found 'rxi' at index 17
+Found 'iyjhy' at index 6
+

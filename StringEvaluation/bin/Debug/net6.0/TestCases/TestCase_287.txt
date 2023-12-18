@@ -1,0 +1,9 @@
+Test Case 287:
+Sentence: rpaifcgxcbafyhzllsn frllfjgfsfv
+Words: fy, cg, cba, fjgfs, afyhz
+Found 'fy' at index 11
+Found 'cg' at index 5
+Found 'cba' at index 8
+Found 'fjgfs' at index 24
+Found 'afyhz' at index 10
+

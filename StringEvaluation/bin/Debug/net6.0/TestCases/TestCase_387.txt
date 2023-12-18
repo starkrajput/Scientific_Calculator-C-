@@ -1,0 +1,6 @@
+Test Case 387:
+Sentence: hiyufcyq dnceoelcghibfcecktxr
+Words: o, yq 
+Found 'o' at index 13
+Found 'yq ' at index 6
+

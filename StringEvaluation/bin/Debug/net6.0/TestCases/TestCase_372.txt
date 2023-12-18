@@ -1,0 +1,8 @@
+Test Case 372:
+Sentence: hmhdxcgvrylrpltzzjhkaywhqqavjrlorunubtfsqpjkssfmo 
+Words: lrpltzz, qavj, sfm, oru
+Found 'lrpltzz' at index 10
+Found 'qavj' at index 25
+Found 'sfm' at index 45
+Found 'oru' at index 31
+

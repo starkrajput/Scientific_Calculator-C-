@@ -1,0 +1,7 @@
+Test Case 82:
+Sentence: oapmmqfolywhhjctvkuju
+Words: p, v, ct
+Found 'p' at index 2
+Found 'v' at index 16
+Found 'ct' at index 14
+

@@ -1,0 +1,6 @@
+Test Case 455:
+Sentence: bdvjqzipxykgcrzuwpuvrqhulf iiusvpliupjevhuqtwcenlhyitrdpyuygg labwrkofl dqkqcumq  gevkmqqvnfgsrrn
+Words: h,  dqk
+Found 'h' at index 22
+Found ' dqk' at index 71
+

@@ -1,0 +1,7 @@
+Test Case 70:
+Sentence: duwtsdvtomco ngawwzjvuyr
+Words: dvtom, s, mco ngaw
+Found 'dvtom' at index 5
+Found 's' at index 4
+Found 'mco ngaw' at index 9
+

@@ -1,0 +1,8 @@
+Test Case 14:
+Sentence: ygvpusbtdbzhgiyziossg iehcfvddimfhjtcianlgpwtfshjocuaitldacrsty
+Words: st, cia, ldacrs, s
+Found 'st' at index 60
+Found 'cia' at index 36
+Found 'ldacrs' at index 55
+Found 's' at index 5
+

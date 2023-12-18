@@ -1,0 +1,8 @@
+Test Case 420:
+Sentence: gupozpaludva kzhajxbtqlcyjjcokzymknuzpbckvwvxompagctb
+Words: kzymkn, alud, vxomp, jj
+Found 'kzymkn' at index 29
+Found 'alud' at index 6
+Found 'vxomp' at index 43
+Found 'jj' at index 25
+

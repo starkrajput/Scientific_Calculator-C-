@@ -1,0 +1,8 @@
+Test Case 398:
+Sentence: yjomlotxkwmk mauisnewcisfroezyxzhweulcduextwcpkafclwzdorrpn hbnmrgrx
+Words: auis, nm, fc, we
+Found 'auis' at index 14
+Found 'nm' at index 62
+Found 'fc' at index 48
+Found 'we' at index 33
+

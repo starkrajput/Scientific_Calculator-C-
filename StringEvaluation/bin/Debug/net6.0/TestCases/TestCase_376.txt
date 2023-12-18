@@ -1,0 +1,6 @@
+Test Case 376:
+Sentence: jnwgdmntgscjqykrfetqtphpquntxjxnnxncdyrzngqayralzscpvjsuy wivgwyrpmnftnopovooyiabku d
+Words: l, j
+Found 'l' at index 47
+Found 'j' at index 0
+

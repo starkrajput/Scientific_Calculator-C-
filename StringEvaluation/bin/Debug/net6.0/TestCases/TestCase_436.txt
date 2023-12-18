@@ -1,0 +1,7 @@
+Test Case 436:
+Sentence: hhebkmsjlxkerzd nikzradeerkdzwelcmff xmypdozaflg yevfsuhusrhqtthnpfc
+Words: z, e, he
+Found 'z' at index 13
+Found 'e' at index 2
+Found 'he' at index 1
+

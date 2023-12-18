@@ -1,0 +1,7 @@
+Test Case 40:
+Sentence: ownndfiubfucuoytmt wyartwj hipcdhkmkgblumhur
+Words: dhk, ub, wy
+Found 'dhk' at index 31
+Found 'ub' at index 7
+Found 'wy' at index 19
+

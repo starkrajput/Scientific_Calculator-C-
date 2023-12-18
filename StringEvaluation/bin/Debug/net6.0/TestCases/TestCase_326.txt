@@ -1,0 +1,8 @@
+Test Case 326:
+Sentence: uvyjlmwegpkoxx oatfbvthu
+Words: jlmw, jlmwe,  oatf, a
+Found 'jlmw' at index 3
+Found 'jlmwe' at index 3
+Found ' oatf' at index 14
+Found 'a' at index 16
+

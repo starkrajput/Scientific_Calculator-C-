@@ -1,0 +1,7 @@
+Test Case 47:
+Sentence: soenngvfqzmh tpkksobcwmygdnjlcavdnfibit rlmnlsnxqdhkqpqsgiwersz
+Words: oe, l, kk
+Found 'oe' at index 1
+Found 'l' at index 28
+Found 'kk' at index 15
+

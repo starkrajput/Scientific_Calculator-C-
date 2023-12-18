@@ -1,0 +1,8 @@
+Test Case 359:
+Sentence: dzcjvxsvcqot sjusaobsbnujeanvpbzulo mdfctapcjwkxywcjqmyiacwl njocwz
+Words: cwz, my, anvpbz, sjus
+Found 'cwz' at index 64
+Found 'my' at index 53
+Found 'anvpbz' at index 26
+Found 'sjus' at index 13
+

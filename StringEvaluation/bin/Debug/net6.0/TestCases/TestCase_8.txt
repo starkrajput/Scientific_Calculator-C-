@@ -1,0 +1,9 @@
+Test Case 8:
+Sentence: jd eqxxdmqhcpixnqlnthxkffqqfv ti rzhiozrtxwswtixnmoapyhrdkiwsjsq
+Words: pixnql, s, qfv ti, tixnm, q
+Found 'pixnql' at index 12
+Found 's' at index 43
+Found 'qfv ti' at index 26
+Found 'tixnm' at index 45
+Found 'q' at index 4
+

@@ -1,0 +1,7 @@
+Test Case 460:
+Sentence: sjpsvkkgbaabzukcdllkknhzuqermsutvpxvf hkwxdsbmxdrdbovvolrjbe
+Words: utv, tvp, olrjbe
+Found 'utv' at index 30
+Found 'tvp' at index 31
+Found 'olrjbe' at index 54
+

@@ -1,0 +1,6 @@
+Test Case 264:
+Sentence: wajumbhtn hwwstwuzmnttyy wbcswiognsxsftomiykliviccnfkmq
+Words: wwstwu, viccnf
+Found 'wwstwu' at index 11
+Found 'viccnf' at index 46
+

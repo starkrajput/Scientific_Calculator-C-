@@ -1,0 +1,6 @@
+Test Case 477:
+Sentence: biidirrjfkounmvqslcwniqgogznhlznoaippgfcnvmefxyfppo
+Words: f, unm
+Found 'f' at index 8
+Found 'unm' at index 11
+

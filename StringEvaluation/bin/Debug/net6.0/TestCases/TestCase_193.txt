@@ -1,0 +1,7 @@
+Test Case 193:
+Sentence: mnbgiarnkdgsllvglscezjur dntnh nei rloobkqwglzvaqnrfwkugwpvfsdidiorip
+Words: lvglsc,  nei rlo, dntnh n
+Found 'lvglsc' at index 13
+Found ' nei rlo' at index 30
+Found 'dntnh n' at index 25
+

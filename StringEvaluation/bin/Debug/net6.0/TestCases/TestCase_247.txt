@@ -1,0 +1,6 @@
+Test Case 247:
+Sentence: csugkzapyrhejgcgeihkbltsptbhopboikqrguvvylklruntqugla
+Words: yrhejg, csug
+Found 'yrhejg' at index 8
+Found 'csug' at index 0
+

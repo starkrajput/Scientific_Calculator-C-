@@ -1,0 +1,6 @@
+Test Case 268:
+Sentence: mkrhknh hrsevmklgxzfvtdnpfohoqzrdjloarefltebpltltjun
+Words: rd, oqzr
+Found 'rd' at index 31
+Found 'oqzr' at index 28
+

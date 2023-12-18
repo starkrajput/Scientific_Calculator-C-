@@ -1,0 +1,9 @@
+Test Case 428:
+Sentence: jlcznsgickmaemkmbciyjwczqvmgxhbgjilwhlshlanoyuqmdgopennzbeqjjerfxyyicsrzeqytspezjlozecs
+Words: je, a, erfx, wc, ckmaemk
+Found 'je' at index 60
+Found 'a' at index 11
+Found 'erfx' at index 61
+Found 'wc' at index 21
+Found 'ckmaemk' at index 8
+

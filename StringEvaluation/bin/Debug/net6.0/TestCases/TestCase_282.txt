@@ -1,0 +1,7 @@
+Test Case 282:
+Sentence: aoyzqihoyibfp gtcavtebteogtbdmix lki ofgkdmdpybc fxvvcrdshmmtpo
+Words: gtc, gtbdmix l, t
+Found 'gtc' at index 14
+Found 'gtbdmix l' at index 25
+Found 't' at index 15
+

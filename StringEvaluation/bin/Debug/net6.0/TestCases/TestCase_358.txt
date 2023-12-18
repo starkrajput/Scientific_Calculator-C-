@@ -1,0 +1,7 @@
+Test Case 358:
+Sentence: ygauomuolkvwulc dco hovfu raqerkhavgiqjtkdtvwmmdpoilegrohzugsqxhretfrvmzno ijf
+Words: i, kd, hr
+Found 'i' at index 36
+Found 'kd' at index 40
+Found 'hr' at index 63
+

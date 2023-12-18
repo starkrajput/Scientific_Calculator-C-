@@ -1,0 +1,6 @@
+Test Case 432:
+Sentence: bpbhlfuyhpiyuopjglyfptvnbovmmbgwouiza cbisfyfclbyudfs lmstbrgdrutccshrkwldzgfomc lpowyglmzjyezigp
+Words: tv, j
+Found 'tv' at index 21
+Found 'j' at index 15
+

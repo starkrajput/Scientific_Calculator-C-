@@ -1,0 +1,7 @@
+Test Case 272:
+Sentence: epwdpeajbbbmttjs aqxunzldpnfbwza xjd
+Words: dpe, tjs aq, j
+Found 'dpe' at index 3
+Found 'tjs aq' at index 13
+Found 'j' at index 7
+

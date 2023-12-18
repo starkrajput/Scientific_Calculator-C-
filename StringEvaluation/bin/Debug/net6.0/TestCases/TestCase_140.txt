@@ -1,0 +1,8 @@
+Test Case 140:
+Sentence: nghvjezhyqzphjgyhiz wjbs dkcqewcqegiquffwrxgvfmgv
+Words: z wj, vfmgv, ghvje, i
+Found 'z wj' at index 18
+Found 'vfmgv' at index 44
+Found 'ghvje' at index 1
+Found 'i' at index 17
+

@@ -1,0 +1,8 @@
+Test Case 366:
+Sentence: wkmwuycnbbtensra dvxekchslxvrsokfkgveweszazzumiwvb ilffgvgxlsdpuvr
+Words: ekchs, wkmwu, w, vxe
+Found 'ekchs' at index 20
+Found 'wkmwu' at index 0
+Found 'w' at index 0
+Found 'vxe' at index 18
+

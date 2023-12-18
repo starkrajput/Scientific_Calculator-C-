@@ -1,0 +1,8 @@
+Test Case 77:
+Sentence: lxwr qiubzgiuifmyeai
+Words: bzg, y, wr , lxw
+Found 'bzg' at index 8
+Found 'y' at index 16
+Found 'wr ' at index 2
+Found 'lxw' at index 0
+

@@ -1,0 +1,9 @@
+Test Case 435:
+Sentence: wkmucwilhfcfpybnlkxqctgtdwmxzlxnfwinwuyillvihqvhjnetobpimsjolkspdwwxhkcmvbmnjhotfryoxqvrkbvyrugcg
+Words: wkmucw, mu, lvihqvhj, fwinwuyi, jne
+Found 'wkmucw' at index 0
+Found 'mu' at index 2
+Found 'lvihqvhj' at index 41
+Found 'fwinwuyi' at index 32
+Found 'jne' at index 48
+

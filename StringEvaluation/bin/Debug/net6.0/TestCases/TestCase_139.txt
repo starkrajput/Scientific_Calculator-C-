@@ -1,0 +1,9 @@
+Test Case 139:
+Sentence: xygool luxsoqdvzybpgmqjbh otmdlmcje
+Words: l, h o, jbh, dvz,  
+Found 'l' at index 5
+Found 'h o' at index 24
+Found 'jbh' at index 22
+Found 'dvz' at index 13
+Found ' ' at index 6
+

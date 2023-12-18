@@ -1,0 +1,8 @@
+Test Case 427:
+Sentence: pvq npzeu oekbdrimqroski ybuixgcqfdkpwyeb ihkvcsexsvihuenoiuxofqfbphux
+Words: i, k, o, s
+Found 'i' at index 16
+Found 'k' at index 12
+Found 'o' at index 10
+Found 's' at index 21
+

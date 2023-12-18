@@ -1,0 +1,8 @@
+Test Case 152:
+Sentence:  k kjfbkxtojcphghwxwozdklsqxtedygfrqzadmu ua
+Words:  kjfb, k kjf,  k kj, kjfbk
+Found ' kjfb' at index 2
+Found 'k kjf' at index 1
+Found ' k kj' at index 0
+Found 'kjfbk' at index 3
+

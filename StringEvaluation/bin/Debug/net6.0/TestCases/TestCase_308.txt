@@ -1,0 +1,6 @@
+Test Case 308:
+Sentence: vivpcjopzekqhfidliwinzsrjhckzgvgswpco
+Words: pcjopze, cjopzekqh
+Found 'pcjopze' at index 3
+Found 'cjopzekqh' at index 4
+

@@ -1,0 +1,7 @@
+Test Case 145:
+Sentence: pqmgnpngysdpsct nw fmqozrngdsirpcmbhpwwjcsmeputqyurzdqobekbrqiureklmtdmqkuoinegijzjbjlelvpoerzkdgp
+Words: jc, j, m
+Found 'jc' at index 39
+Found 'j' at index 39
+Found 'm' at index 2
+

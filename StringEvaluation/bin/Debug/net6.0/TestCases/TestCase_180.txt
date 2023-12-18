@@ -1,0 +1,8 @@
+Test Case 180:
+Sentence: dffostftvnta mzgntwqsjcydqr  pxlbjekunn rdxgozutqzxifusfslhvjtxzthxolterkicgzvbw tf
+Words: zt, tftvn, hvj, tf
+Found 'zt' at index 63
+Found 'tftvn' at index 5
+Found 'hvj' at index 58
+Found 'tf' at index 5
+

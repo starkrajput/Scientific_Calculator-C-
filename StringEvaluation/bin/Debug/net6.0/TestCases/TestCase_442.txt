@@ -1,0 +1,8 @@
+Test Case 442:
+Sentence: ytoxkepssl ztpcqqiwarftgxlxkzznbgvbwecnuuvreemxhbywdvdvtsqzwgnyr
+Words:  z, cqqiwarf, wdvdvt, g
+Found ' z' at index 10
+Found 'cqqiwarf' at index 14
+Found 'wdvdvt' at index 50
+Found 'g' at index 23
+

@@ -1,0 +1,7 @@
+Test Case 444:
+Sentence: lttdqzmkxlgznqqwyfmolxicugmoflziwywmtgskgomccuioglenndthptpp fxzyuyxdaumyobuwyjylocpgrreevifjv
+Words: mc, wyf, rreevi
+Found 'mc' at index 42
+Found 'wyf' at index 15
+Found 'rreevi' at index 85
+

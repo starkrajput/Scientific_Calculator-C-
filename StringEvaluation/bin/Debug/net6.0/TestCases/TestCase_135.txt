@@ -1,0 +1,6 @@
+Test Case 135:
+Sentence: dtgahymppzsctsafrimk amfhcocbwwxjkglki alvhlkqdfnzcbm epgsladszvlormhgrttiatqe
+Words: gsladszv,  alvhlkqd
+Found 'gsladszv' at index 56
+Found ' alvhlkqd' at index 38
+

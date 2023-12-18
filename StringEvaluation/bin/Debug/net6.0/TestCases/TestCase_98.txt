@@ -1,0 +1,7 @@
+Test Case 98:
+Sentence: lrdvl xxwseqggcrqxepkcclwoiy fkudkhst xegflywqwliczo
+Words: iy , qw, gcrqx
+Found 'iy ' at index 26
+Found 'qw' at index 45
+Found 'gcrqx' at index 13
+

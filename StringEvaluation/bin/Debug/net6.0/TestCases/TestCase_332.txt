@@ -1,0 +1,8 @@
+Test Case 332:
+Sentence: svhsjukepwpswmarktuaoxlg
+Words: epwps, tuao, sjuke, rktua
+Found 'epwps' at index 7
+Found 'tuao' at index 17
+Found 'sjuke' at index 3
+Found 'rktua' at index 15
+

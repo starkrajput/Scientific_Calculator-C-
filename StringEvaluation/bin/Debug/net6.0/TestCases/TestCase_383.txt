@@ -1,0 +1,8 @@
+Test Case 383:
+Sentence: gncxokxa orntxpcokckotwjuwsdhzzr 
+Words: okc, otw, wsd, o
+Found 'okc' at index 16
+Found 'otw' at index 20
+Found 'wsd' at index 25
+Found 'o' at index 4
+

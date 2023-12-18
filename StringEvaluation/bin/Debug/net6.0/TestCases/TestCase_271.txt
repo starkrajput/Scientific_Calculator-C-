@@ -1,0 +1,7 @@
+Test Case 271:
+Sentence: htgebajetslxsvo cpwylkdhdqzg  z
+Words: ylkdhdqzg, p, gebajets
+Found 'ylkdhdqzg' at index 19
+Found 'p' at index 17
+Found 'gebajets' at index 2
+

@@ -1,0 +1,7 @@
+Test Case 303:
+Sentence: mslynemqqvonxjfenynb bfmqew bqzdiaufupxgjmfwq nqnukwwjggjmijszkylwscyorhlzvvnqovrhrryjmhyg
+Words: lynem, qzdiaufup, ynb bfmq
+Found 'lynem' at index 2
+Found 'qzdiaufup' at index 29
+Found 'ynb bfmq' at index 17
+

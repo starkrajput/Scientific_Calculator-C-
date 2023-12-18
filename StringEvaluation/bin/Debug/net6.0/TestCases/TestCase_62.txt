@@ -1,0 +1,6 @@
+Test Case 62:
+Sentence: gfunpavokqztavhczcktbxlscdrixuhugkdtpftexttcylmqbhl fqah gruoaumfncyggyacsqbjr
+Words: u, ugkd
+Found 'u' at index 2
+Found 'ugkd' at index 31
+

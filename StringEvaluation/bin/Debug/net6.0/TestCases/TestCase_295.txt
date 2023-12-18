@@ -1,0 +1,7 @@
+Test Case 295:
+Sentence: admqxeaglmspkhatbew chflgseommxtvgmbpuslijmlrka
+Words: bpu, mqx, lijm
+Found 'bpu' at index 35
+Found 'mqx' at index 2
+Found 'lijm' at index 39
+

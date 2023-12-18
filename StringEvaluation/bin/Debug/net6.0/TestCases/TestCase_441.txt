@@ -1,0 +1,8 @@
+Test Case 441:
+Sentence: wnxpymfhkwwomdjrg ljewjahfphlsfhawqrsxcyxixxhjxhxnfiqdijswyhmzyieibbzimcso
+Words: yxixxhj, fhaw, ph, fhawq
+Found 'yxixxhj' at index 39
+Found 'fhaw' at index 30
+Found 'ph' at index 26
+Found 'fhawq' at index 30
+

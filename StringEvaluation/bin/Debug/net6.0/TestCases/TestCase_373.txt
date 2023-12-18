@@ -1,0 +1,9 @@
+Test Case 373:
+Sentence: disezzqlxo f wagtqyvuinn ibkqgqpkkvunafioecwarzltrrojuwnzcpic
+Words: sez, rzltrroj, pkkvunafi, lxo f wag, agtqyvuin
+Found 'sez' at index 2
+Found 'rzltrroj' at index 45
+Found 'pkkvunafi' at index 31
+Found 'lxo f wag' at index 7
+Found 'agtqyvuin' at index 14
+

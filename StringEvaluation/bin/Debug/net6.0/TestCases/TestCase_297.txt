@@ -1,0 +1,9 @@
+Test Case 297:
+Sentence: vedtjlxxwcwyfdkvuymnwr fhxpcuukntmopqzzghsumdbp  lpblovlmks
+Words: db, tmopqzz, p  l, hxpcuuk,   lpb
+Found 'db' at index 44
+Found 'tmopqzz' at index 32
+Found 'p  l' at index 46
+Found 'hxpcuuk' at index 24
+Found '  lpb' at index 47
+

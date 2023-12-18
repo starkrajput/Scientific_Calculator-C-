@@ -1,0 +1,9 @@
+Test Case 5:
+Sentence: czpzlmqvncqmkjsd pg tytxqgenbxvpk dsooquya lbepo
+Words: enbxvpk , sd pg t, enb, qvncqmkjsd, quy
+Found 'enbxvpk ' at index 26
+Found 'sd pg t' at index 14
+Found 'enb' at index 26
+Found 'qvncqmkjsd' at index 6
+Found 'quy' at index 38
+

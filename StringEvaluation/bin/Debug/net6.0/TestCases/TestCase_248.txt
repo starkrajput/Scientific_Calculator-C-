@@ -1,0 +1,9 @@
+Test Case 248:
+Sentence: pyjcediyks ehlehdzbnwdndwpvvgfhtveb tvysjvcowkbssw kssylpd
+Words: bnwdndwp, ssw kss, hd, s, kss
+Found 'bnwdndwp' at index 18
+Found 'ssw kss' at index 47
+Found 'hd' at index 15
+Found 's' at index 9
+Found 'kss' at index 51
+

@@ -1,0 +1,7 @@
+Test Case 120:
+Sentence: zgvccjahuxmsnisljbkamotcuocmbzqskfjtycszejhlc cwtydhpxyivrdayvhewjddauhdapjubfhgydj
+Words: kfj, k, cuocm
+Found 'kfj' at index 32
+Found 'k' at index 18
+Found 'cuocm' at index 23
+

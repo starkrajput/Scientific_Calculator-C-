@@ -1,0 +1,7 @@
+Test Case 473:
+Sentence: grdqjqntqpqaarypdokfjoqcwamqdhmjepkygimomhrlzysfmwzbqikpndpt
+Words: fm, rlz, yg
+Found 'fm' at index 47
+Found 'rlz' at index 42
+Found 'yg' at index 35
+

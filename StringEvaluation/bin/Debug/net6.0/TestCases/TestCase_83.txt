@@ -1,0 +1,7 @@
+Test Case 83:
+Sentence: aivtszzwpzptmexqyednuoojpeokusgviqrciummprobxep vvo
+Words: gviqrciumm, probxep, tmexqyednu
+Found 'gviqrciumm' at index 30
+Found 'probxep' at index 40
+Found 'tmexqyednu' at index 11
+

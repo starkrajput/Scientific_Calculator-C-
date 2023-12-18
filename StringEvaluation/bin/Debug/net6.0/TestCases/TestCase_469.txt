@@ -1,0 +1,6 @@
+Test Case 469:
+Sentence: bftcrlsifkzlxd dfswwbdszanxpnn hmjfoqxyiajwofdzkxeufmhgkxis
+Words: d , wofd
+Found 'd ' at index 13
+Found 'wofd' at index 42
+

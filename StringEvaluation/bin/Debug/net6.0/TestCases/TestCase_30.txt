@@ -1,0 +1,9 @@
+Test Case 30:
+Sentence: sxx xxbiezixnetfmynaxhmyh
+Words: xxbiez, xne, mynaxh, iezixn, etfmyn
+Found 'xxbiez' at index 4
+Found 'xne' at index 11
+Found 'mynaxh' at index 16
+Found 'iezixn' at index 7
+Found 'etfmyn' at index 13
+

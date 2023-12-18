@@ -1,0 +1,9 @@
+Test Case 498:
+Sentence: bhvwnyirjzoqynf xclnynvcpioflcve ohklfwpgslxuauzolbsvtnuvztlytoknmatyxfluxxnfoooqkwojb
+Words: o, lbsvtn, cpio, lyto, pio
+Found 'o' at index 10
+Found 'lbsvtn' at index 49
+Found 'cpio' at index 23
+Found 'lyto' at index 59
+Found 'pio' at index 24
+

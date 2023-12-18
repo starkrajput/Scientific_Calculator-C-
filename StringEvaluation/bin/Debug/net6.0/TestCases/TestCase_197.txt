@@ -1,0 +1,6 @@
+Test Case 197:
+Sentence: gynvllgiyybaxdengeozbrhovgejrssfixkyarcgztlkfypvxxqxzljjzkwfikpbbjwem
+Words: lg, hovgejrs
+Found 'lg' at index 5
+Found 'hovgejrs' at index 22
+

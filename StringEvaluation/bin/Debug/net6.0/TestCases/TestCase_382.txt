@@ -1,0 +1,7 @@
+Test Case 382:
+Sentence: vo dvngyzqaxdrrlc cqsqrkavyfygaqt xbvcfseehic
+Words:  cqsqrk, vyfygaq, ka
+Found ' cqsqrk' at index 17
+Found 'vyfygaq' at index 25
+Found 'ka' at index 23
+

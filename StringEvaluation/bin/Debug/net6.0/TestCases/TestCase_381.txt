@@ -1,0 +1,9 @@
+Test Case 381:
+Sentence: mimtufbcbrjdbncusjvabzvuolmwmbxgeliskygzeaadpaivkrreqdzakgaircffspaettmpnj
+Words: jvabzv, rjdbnc, jvabzv, eqdz, rcffspae
+Found 'jvabzv' at index 17
+Found 'rjdbnc' at index 9
+Found 'jvabzv' at index 17
+Found 'eqdz' at index 51
+Found 'rcffspae' at index 60
+

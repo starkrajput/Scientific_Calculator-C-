@@ -1,0 +1,6 @@
+Test Case 13:
+Sentence: lxzyfru geicuhfpcsogfuuebkfucwuvtnqb utasaik
+Words: g, i
+Found 'g' at index 8
+Found 'i' at index 10
+

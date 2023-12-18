@@ -1,0 +1,8 @@
+Test Case 478:
+Sentence: dayiaubum mgzlhyebovugallshtcmnkjxl ppdybonlshkqioiik
+Words: aub, ubum mg, shtc, b
+Found 'aub' at index 4
+Found 'ubum mg' at index 5
+Found 'shtc' at index 25
+Found 'b' at index 6
+

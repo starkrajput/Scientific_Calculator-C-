@@ -1,0 +1,7 @@
+Test Case 391:
+Sentence: tbrapsmmncozbhluujxkbjkx ewsrhduwuyrwrivnhnabatpgnuhnekdsebsxsbcdjsgodqljmufmdaqrmd
+Words: d, w, vn
+Found 'd' at index 30
+Found 'w' at index 26
+Found 'vn' at index 39
+

@@ -1,0 +1,8 @@
+Test Case 166:
+Sentence: yxbmnpaimk  levqrsmtcticphamwamuh
+Words: k  l, m, pha,  l
+Found 'k  l' at index 9
+Found 'm' at index 3
+Found 'pha' at index 24
+Found ' l' at index 11
+

@@ -1,0 +1,9 @@
+Test Case 256:
+Sentence: rfkxjdcucrvp myihvgkcxdvwachclixrwcuyovvpponzpviguukhqdbyt
+Words: gkcx, vigu, kcx, h, u
+Found 'gkcx' at index 18
+Found 'vigu' at index 46
+Found 'kcx' at index 19
+Found 'h' at index 16
+Found 'u' at index 7
+

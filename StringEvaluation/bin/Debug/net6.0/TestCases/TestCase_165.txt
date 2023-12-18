@@ -1,0 +1,9 @@
+Test Case 165:
+Sentence:  ciodjdqrqbrfbbqvq vu yngkczgeomlsxualpkly qyxh rckiuljexbdol giwbraeramsldnvps jbwtmjdap
+Words: xbdol gi, dqrqbrfbb, sxualpkl, qyxh rc, msldnvps
+Found 'xbdol gi' at index 56
+Found 'dqrqbrfbb' at index 6
+Found 'sxualpkl' at index 33
+Found 'qyxh rc' at index 43
+Found 'msldnvps' at index 71
+

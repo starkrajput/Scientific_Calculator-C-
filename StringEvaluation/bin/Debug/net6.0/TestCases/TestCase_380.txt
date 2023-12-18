@@ -1,0 +1,7 @@
+Test Case 380:
+Sentence: ycgyxkgcolffoe zxifpysmyvvkkofnjloxyftpitcuotwwyzbdouhkpaydlrot
+Words: douhkp, p, ftp
+Found 'douhkp' at index 50
+Found 'p' at index 19
+Found 'ftp' at index 36
+

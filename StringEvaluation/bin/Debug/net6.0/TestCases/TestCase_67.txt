@@ -1,0 +1,8 @@
+Test Case 67:
+Sentence: umwgg porh xmattvrlslrtlllprsojqzhpfilxfwipnipsmaiblodvzxki
+Words: pnips, tvrlsl, aiblodv, slrtl
+Found 'pnips' at index 42
+Found 'tvrlsl' at index 15
+Found 'aiblodv' at index 48
+Found 'slrtl' at index 19
+

@@ -1,0 +1,8 @@
+Test Case 362:
+Sentence: omvldonqteumtfdtzmwxfb omv f cvunavkias s mflormngsqcew zgnqbetsbnshfcamauzph
+Words: sqcew, navki, ns, kias
+Found 'sqcew' at index 50
+Found 'navki' at index 32
+Found 'ns' at index 65
+Found 'kias' at index 35
+

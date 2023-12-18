@@ -1,0 +1,7 @@
+Test Case 365:
+Sentence: oxumvnpvaam acawbbmazgwuhvuzddbqxrhbzqjavcqxvrfxejxmunmydhsfquvkimcwuhuofxwzqwtnloqfghalhu
+Words: wbbmaz, uofxwz, bqxr
+Found 'wbbmaz' at index 15
+Found 'uofxwz' at index 70
+Found 'bqxr' at index 30
+

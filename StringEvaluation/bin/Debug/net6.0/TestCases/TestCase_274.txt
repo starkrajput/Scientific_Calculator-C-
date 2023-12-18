@@ -1,0 +1,8 @@
+Test Case 274:
+Sentence: ntinjcncvglalgryztaaubsivzynubgdtpvalawazgddhlphpm
+Words: n, t, t, wa
+Found 'n' at index 0
+Found 't' at index 1
+Found 't' at index 1
+Found 'wa' at index 38
+

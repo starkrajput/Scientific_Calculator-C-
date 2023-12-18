@@ -1,0 +1,7 @@
+Test Case 144:
+Sentence: zdibwedtuzqrimljudoqvqcxrptzwgcntlabzseofaknffktizdjujodsidkqixlovlywke
+Words: cntlab, doqvqcx, wed
+Found 'cntlab' at index 30
+Found 'doqvqcx' at index 17
+Found 'wed' at index 4
+

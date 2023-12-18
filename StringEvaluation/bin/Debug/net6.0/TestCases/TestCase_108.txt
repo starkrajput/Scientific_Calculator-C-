@@ -1,0 +1,8 @@
+Test Case 108:
+Sentence: xefphzthywyhcqgtqwtxsmgioervwpy afhe zojouzngy ickbbf vkdovkr hbgozfepcvheao
+Words: f v, v, efp, u
+Found 'f v' at index 52
+Found 'v' at index 27
+Found 'efp' at index 1
+Found 'u' at index 41
+

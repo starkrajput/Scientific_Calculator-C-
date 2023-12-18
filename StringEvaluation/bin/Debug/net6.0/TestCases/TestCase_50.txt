@@ -1,0 +1,9 @@
+Test Case 50:
+Sentence: wvqgjlxxwmcaco moxyrtcegwcyra qfgdwivtnjljbnjteqj rnybbcrstodrpenfq jugykrupz
+Words: bcr, u, crstodrp, wcyra qf, co moxyr
+Found 'bcr' at index 54
+Found 'u' at index 69
+Found 'crstodrp' at index 55
+Found 'wcyra qf' at index 24
+Found 'co moxyr' at index 12
+

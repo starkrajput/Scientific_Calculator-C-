@@ -1,0 +1,7 @@
+Test Case 482:
+Sentence: bielhecxycgdwtct ffol wnepteaaicbmsuifwgaxpahesrvz kqnbpajrnhhaezrasmprllwmsedshehsktfceiwjjpnowmod
+Words: sed, a, rn
+Found 'sed' at index 75
+Found 'a' at index 28
+Found 'rn' at index 58
+

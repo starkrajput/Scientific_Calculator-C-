@@ -1,0 +1,7 @@
+Test Case 346:
+Sentence: vsowdbmrpqvpkbiphwwrwmhgbgtjtksknswjlkrmfruvkvffoszrfdhlgbrprpyimipqcyiaeyqd
+Words: rpyimi, iae, f
+Found 'rpyimi' at index 60
+Found 'iae' at index 70
+Found 'f' at index 40
+

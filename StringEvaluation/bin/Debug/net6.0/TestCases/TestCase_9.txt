@@ -1,0 +1,8 @@
+Test Case 9:
+Sentence: evlro pligezktdjbsmbopgcawnzshzi uhsvfdkfqafbicrwoijcgoi dqrytfwucnbj mletbqaurnjtjj qsxlcpfu
+Words: b, m, bq, zs
+Found 'b' at index 16
+Found 'm' at index 18
+Found 'bq' at index 74
+Found 'zs' at index 27
+

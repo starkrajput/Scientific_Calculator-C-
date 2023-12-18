@@ -1,0 +1,6 @@
+Test Case 481:
+Sentence: snzwckknwcugiicbpqizzpiq ihxfququmnuxprdtcbdmrplxxefhwx i
+Words: iicb, fhw
+Found 'iicb' at index 12
+Found 'fhw' at index 51
+

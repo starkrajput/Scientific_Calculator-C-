@@ -1,0 +1,7 @@
+Test Case 466:
+Sentence: walzvanlyd ybdskfedsrjnyikuat z
+Words: ikuat, fedsrjnyik, a
+Found 'ikuat' at index 24
+Found 'fedsrjnyik' at index 16
+Found 'a' at index 1
+

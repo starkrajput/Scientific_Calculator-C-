@@ -1,0 +1,6 @@
+Test Case 63:
+Sentence: tlqmybzpxjaezccvdthipafnpbnbfwlmg klzhvsjclnmiqlylwvmzdomtzp
+Words: wvmz, pxjaezc
+Found 'wvmz' at index 50
+Found 'pxjaezc' at index 7
+

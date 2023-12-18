@@ -1,0 +1,249 @@
+
+Introduction:
+The Scientific Calculator is a command-line application designed to perform a wide range of mathematical operations, including basic arithmetic, trigonometry, and other advanced functions. It provides users with a flexible and interactive environment to perform calculations efficiently.
+
+Key Features:
+Basic Arithmetic: Addition, subtraction, multiplication, and division.
+Trigonometric Functions: Sine, cosine, tangent, and their inverses.
+Exponential and Logarithmic Functions: Exponentiation, logarithms, and natural logarithms.
+Factorial Calculation: Computes the factorial of a given integer.
+Memory Functionality: Ability to store and recall values.
+Real-time Expression Evaluation: Displays current expression, variable, and history after each operation.
+Robust Key Handling: Supports a variety of key combinations for enhanced functionality.
+
+
+Requirements:
+Operating System: Cross-platform (Windows, macOS, Linux)
+.NET Runtime: .NET Core 3.1 or later
+
+
+Advantages:
+Flexibility: Handles a variety of mathematical operations, making it suitable for both basic and advanced calculations.
+Interactive: Provides real-time updates, fostering an interactive and dynamic user experience.
+Extensibility: Easily extendable with additional functionalities and operations.
+Memory Support: Allows users to store and recall values, enhancing usability.
+Expression Logic:
+
+The calculator employs a stack-based expression solver to evaluate mathematical expressions. It utilizes two stacks: one for operators (operatorStack) and another for operands (operandStack). The logic involves parsing the input expression, handling parentheses, and calculating values based on operator precedence.
+
+Operator Precedence:
++, -: Precedence 1
+*, /, ^, %: Precedence 2
+
+
+
+Integration with Class Library:
+
+The Scientific Calculator is integrated with a class library that provides core arithmetic and trigonometric functionalities. The class library includes:
+
+Arithmetic Operations:
+
+Addition, subtraction, multiplication, division.
+Exponentiation (^), modulus (%).
+
+Trigonometric Operations:
+
+Sine, cosine, tangent.
+Inverse sine, inverse cosine, inverse tangent.
+
+Factorial Calculation:
+
+Computes the factorial of a given integer.
+Memory Operations:
+
+Memory storage and retrieval functions.
+Real-time Expression Solver:
+
+Stack-based solver for evaluating mathematical expressions.
+Key Handling:
+
+Utilizes a KeyPressed event to handle keypresses for enhanced interactivity.
+
+Let's have some extra explanation :
+ **Expression Solver:**
+
+   The `solveExpression` method evaluates a mathematical expression involving parentheses, operators, and operands. It utilizes two stacks, one for operators (`operatorStack`) and another for operands (`operandStack`), along with a helper method (`Precedence`) to determine the precedence of operators.
+
+   - **Method Signature:**
+     ```csharp
+     static int solveExpression(String expression)
+     ```
+
+   - **Parameters:**
+     - `expression` (Type: `String`): The mathematical expression to be evaluated.
+
+   - **Return Value:**
+     - Returns the result of evaluating the mathematical expression.
+
+   - **Operation:**
+     The method employs a stack-based approach to process the expression, evaluating parentheses, handling numeric values, and performing arithmetic operations based on operator precedence.
+
+   - **Example:**
+     ```csharp
+     int result = solveExpression("(((2+4)*2+5)+2^5+((6*6)/6+32))");
+     ```
+
+2. **Delegate and Event Handling:**
+
+   The code defines a delegate `KeyPressedEventHandler` and an event `KeyPressed` to handle key presses in the console application.
+
+   - **Delegate Signature:**
+     ```csharp
+     public delegate void KeyPressedEventHandler(ConsoleKeyInfo keyInfo);
+     ```
+
+   - **Event:**
+     ```csharp
+     public static event KeyPressedEventHandler KeyPressed;
+     ```
+
+   - **Usage:**
+     The `HandleKeys` method is subscribed to the `KeyPressed` event, and it is invoked whenever a key is pressed. The event is used for handling key inputs in the console application.
+
+3. **StringBuilder Initialization:**
+
+   The code initializes `StringBuilder` instances for storing expression history, the current expression being solved, memory expressions, and a general history log.
+
+   - **StringBuilder Instances:**
+     ```csharp
+     static StringBuilder expressionHistory = new StringBuilder();
+     static StringBuilder expressionSolver = new StringBuilder();
+     static StringBuilder memoryExpression = new StringBuilder();
+     static StringBuilder History = new StringBuilder();
+     ```
+
+4. **Main Method and Console Application:**
+
+   The `Main` method initializes the console application, sets the title, and enters a loop for handling key inputs. It subscribes the `HandleKeys` method to the `KeyPressed` event.
+
+   - **Example:**
+     ```csharp
+     static void Main()
+     {
+         // ... Initialization code ...
+
+         KeyPressed += HandleKeys;
+         while (true)
+         {
+             // ... Key input handling ...
+         }
+     }
+     ```
+
+   - **Key Handling:**
+     The `HandleKeys` method is called whenever a key is pressed, providing a mechanism to react to specific key combinations and perform corresponding actions.
+
+This documentation provides an overview of the expression solver, key event handling, and initialization of `StringBuilder` instances in the given console application.
+
+
+The `HandleKeys` method manages keypress events for a scientific calculator. It interprets Ctrl + [Key] combinations to perform specific mathematical operations or conversions. Below are the defined key combinations and their corresponding functionalities:
+
+- Ctrl + M: Calculates the secant of the current variable value.
+- Ctrl + P: Calculates the cosecant of the current variable value.
+- Ctrl + Q: Calculates the cotangent of the current variable value.
+- Ctrl + R: Rounds up the current variable value to the nearest integer.
+- Ctrl + L: Rounds down the current variable value to the nearest integer.
+- Ctrl + G: Generates a random number between 1 and 100.
+- Ctrl + S: Converts the current variable value from radians to degrees.
+- Ctrl + U: Converts the current variable value from degrees to radians.
+- Ctrl + I: Uses the current variable value as is (GRAD mode).
+- Ctrl + J: Converts the current variable value to scientific notation.
+
+Additionally, the following single key operation is defined:
+
+- Ctrl + Y: Negates the current variable value.
+The `HandleKeys` method continues to manage keypress events for a scientific calculator, focusing on combinations involving the Shift key. It interprets Shift + [Key] combinations to perform various mathematical operations. Below are the defined key combinations and their corresponding functionalities:
+
+- Shift + S: Calculates 10 raised to the power of the current variable value.
+- Shift + T: Calculates the logarithm base 10 of the current variable value.
+- Shift + O: Calculates the logarithm base 2 of the current variable value.
+- Shift + U: Calculates the sine of the current variable value.
+- Shift + I: Calculates the cosine of the current variable value.
+- Shift + J: Calculates the tangent of the current variable value.
+- Shift + L: Placeholder for future functionality.
+
+Moreover, the `Shift + Control` combination is also considered, and it is expected to handle additional operations or extensions in the future.
+
+The method also includes a section for handling other special keys such as mathematical operators, numbers, and specific functions. For example:
+
+- Addition (+): Adds the current variable value to the expression.
+- Subtraction (-): Subtracts the current variable value from the expression.
+- Multiplication (*): Multiplies the current variable value with the expression.
+- Division (/): Divides the expression by the current variable value.
+- Numeric keys (0-9): Appends the respective digit to the current variable value.
+- Backspace: Removes the last character from the current variable value.
+- Escape: Exits the calculator.
+- Shift + S: Calculates the absolute value of the current variable.
+- Shift + T: Calculates the exponential function (e^x) of the current variable.
+- Shift + O: Adds the modulus operator (%) to the expression.
+- Shift + U: Calculates the factorial of the current variable.
+- Shift + I: Adds an opening parenthesis "(" to the expression.
+- Shift + J: Adds a closing parenthesis ")" to the expression.
+- Shift + M: Calculates the reciprocal (1/x) of the current variable.
+- Shift + N: Clears the calculator and resets the expression.
+- Shift + Q: Calculates the square (x^2) of the current variable.
+- Shift + V: Calculates the square root of the current variable.
+- Shift + X: Adds the exponentiation operator (^) to the expression.
+
+The method provides real-time updates to the calculator display after each operation, showing the current expression, variable, and history.
+
+The method updates the calculator display with the current expression, variable, and history after each operation. If the key combination does not match any defined case, it is ignored.
+
+
+
+1. **Factorial Calculation:**
+
+   The `Factorial` method computes the factorial of a given integer `n`. The factorial of a non-negative integer is the product of all positive integers less than or equal to that integer. The method uses recursive logic to calculate the factorial.
+
+   - **Method Signature:**
+     ```csharp
+     static long Factorial(int n)
+     ```
+
+   - **Parameters:**
+     - `n` (Type: `int`): The integer for which the factorial is to be calculated.
+
+   - **Return Value:**
+     - Returns the factorial of the input integer `n`.
+
+   - **Example:**
+     ```csharp
+     long result = Factorial(5); // Computes 5! (5 factorial)
+     ```
+
+2. **Operator Precedence Evaluation:**
+
+   The `Precedence` method determines the precedence level of an arithmetic operator. It assigns a numerical value to each operator, indicating its priority in mathematical expressions.
+
+   - **Method Signature:**
+     ```csharp
+     static int Precedence(char Operand)
+     ```
+
+   - **Parameters:**
+     - `Operand` (Type: `char`): The arithmetic operator for which the precedence level is to be determined.
+
+   - **Return Value:**
+     - Returns an integer representing the precedence level of the given operator.
+       - `1` for addition (`+`) and subtraction (`-`).
+       - `2` for multiplication (`*`), division (`/`), exponentiation (`^`), and modulus (`%`).
+       - `0` if the character is not a recognized operator.
+
+   - **Example:**
+     ```csharp
+     int precedence = Precedence('*'); // Returns 2 (multiplication operator)
+     ```
+
+   - **Operators and Corresponding Precedence:**
+     - `+`, `-`: Precedence 1
+     - `*`, `/`, `^`, `%`: Precedence 2
+     - Other characters: Precedence 0 (not recognized as operators)
+
+These utility methods contribute to the functionality of the scientific calculator by enabling factorial calculations and determining operator precedence in mathematical expressions.
+
+
+
+Conclusion:
+
+The Scientific Calculator provides a powerful and interactive environment for mathematical calculations. Its flexibility, extensibility, and integration with a class library make it a versatile tool for both basic and advanced users. With real-time updates, memory support, and robust key handling, it offers a seamless and efficient user experience.
+

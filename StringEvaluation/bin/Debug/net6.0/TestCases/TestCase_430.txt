@@ -1,0 +1,8 @@
+Test Case 430:
+Sentence: acav ocovvreuzi hzlfyj gxbd eypbrgehxkrbziksn nfsle mfmfgkiawxftmvpkthx vrownoqtuxu
+Words:  m, v,  m, r
+Found ' m' at index 51
+Found 'v' at index 3
+Found ' m' at index 51
+Found 'r' at index 10
+

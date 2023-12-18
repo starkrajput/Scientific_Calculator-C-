@@ -1,0 +1,6 @@
+Test Case 7:
+Sentence: c nlzgcngpysqzenatathjqzkkusq v mmmqpq
+Words: u, h
+Found 'u' at index 26
+Found 'h' at index 20
+

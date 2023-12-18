@@ -1,0 +1,8 @@
+Test Case 160:
+Sentence: uckxtkzoxlhtxquwbtdnoxaaul gxyyepiha
+Words: yyepi,  g, yepi, oxlht
+Found 'yyepi' at index 29
+Found ' g' at index 26
+Found 'yepi' at index 30
+Found 'oxlht' at index 7
+

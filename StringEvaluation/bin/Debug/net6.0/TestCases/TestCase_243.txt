@@ -1,0 +1,7 @@
+Test Case 243:
+Sentence: fuisagfwdsihsthkk ipsxuhxmkcjuuqblnq jwnv scqsukftkeobprutozyuygwvjnkssqib
+Words: fui, thkk i, tk
+Found 'fui' at index 0
+Found 'thkk i' at index 13
+Found 'tk' at index 49
+

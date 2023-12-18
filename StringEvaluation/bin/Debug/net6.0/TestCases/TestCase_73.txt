@@ -1,0 +1,7 @@
+Test Case 73:
+Sentence: kdzajnpoecd jbhfylvmnkfofvuwornz
+Words: kfof, ajnpoe, of
+Found 'kfof' at index 21
+Found 'ajnpoe' at index 3
+Found 'of' at index 23
+

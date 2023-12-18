@@ -1,0 +1,9 @@
+Test Case 317:
+Sentence: djglioqhvpwdwwnupfyuwsippugikwmnfrxmcumzhxjdxymomkcbfbkp lbvdwlnpsc
+Words: qhvpwdwwn, qhv, o, yuwsippu, fbkp lb
+Found 'qhvpwdwwn' at index 6
+Found 'qhv' at index 6
+Found 'o' at index 5
+Found 'yuwsippu' at index 18
+Found 'fbkp lb' at index 52
+

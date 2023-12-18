@@ -1,0 +1,9 @@
+Test Case 56:
+Sentence: kqqymzpwi orfuyuuqs mdlldhanqofvcuuqmwfgesikibnutberoudtaripxredohpi qijbaexiofoqjpzwewzbgb
+Words: u, f, q, r, ik
+Found 'u' at index 13
+Found 'f' at index 12
+Found 'q' at index 1
+Found 'r' at index 11
+Found 'ik' at index 42
+

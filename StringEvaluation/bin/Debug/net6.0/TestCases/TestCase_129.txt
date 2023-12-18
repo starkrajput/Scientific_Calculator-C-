@@ -1,0 +1,8 @@
+Test Case 129:
+Sentence:  ycfhmljeccwahtammiimndqalwdbj lftmkpsfgfnzfzvuht haiux
+Words: d,  yc,  l, tam
+Found 'd' at index 22
+Found ' yc' at index 0
+Found ' l' at index 30
+Found 'tam' at index 14
+

@@ -1,0 +1,8 @@
+Test Case 105:
+Sentence: ivyydnbckmiqficxwllzfojizzdhqjngxooyfefbkic sstaodvreoblmtjpzfgihh
+Words: o, vreo, b, zz
+Found 'o' at index 21
+Found 'vreo' at index 50
+Found 'b' at index 6
+Found 'zz' at index 24
+

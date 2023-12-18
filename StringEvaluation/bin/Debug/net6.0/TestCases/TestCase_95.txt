@@ -1,0 +1,9 @@
+Test Case 95:
+Sentence: beyvrqpqhj xwywjwqjgsgaq fmqlphqietkuizceonqduzwpbybpcz
+Words: eyvrqpqhj, et, qduzwp, hj xwywjw, eonqduzwp
+Found 'eyvrqpqhj' at index 1
+Found 'et' at index 33
+Found 'qduzwp' at index 43
+Found 'hj xwywjw' at index 8
+Found 'eonqduzwp' at index 40
+

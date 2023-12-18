@@ -1,0 +1,8 @@
+Test Case 4:
+Sentence: ztacxb mbtlbswvoyjbtgnexulstndkqojkcd xjhrp dfpyma ifhlxzumaaiyndpovjnnp ilnkmrgciiijtlahbiqqapf
+Words: tacxb, n,  df, d
+Found 'tacxb' at index 1
+Found 'n' at index 21
+Found ' df' at index 43
+Found 'd' at index 29
+

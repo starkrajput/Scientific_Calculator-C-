@@ -1,0 +1,7 @@
+Test Case 347:
+Sentence: hlnxcldgdnlpmhgpxisghakdtr dqzfgflmwlgk
+Words: nlpmh, nlp, pm
+Found 'nlpmh' at index 9
+Found 'nlp' at index 9
+Found 'pm' at index 11
+

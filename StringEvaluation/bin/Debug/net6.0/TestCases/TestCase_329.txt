@@ -1,0 +1,9 @@
+Test Case 329:
+Sentence: snrzvpkqwwalkfgvvoqetgbehs muarixdsxuvltvc jelm tmfmkulmsthnqnealbkevx
+Words: x,  mua, l, etgb, ar
+Found 'x' at index 32
+Found ' mua' at index 26
+Found 'l' at index 11
+Found 'etgb' at index 19
+Found 'ar' at index 29
+

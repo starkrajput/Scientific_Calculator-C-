@@ -1,0 +1,7 @@
+Test Case 24:
+Sentence: tzwyrluiferivrwcesshjrganuctnwkkhwjpoinankfyspdhkz unxikllvutybbjcw
+Words: uife, ss, lu
+Found 'uife' at index 6
+Found 'ss' at index 17
+Found 'lu' at index 5
+

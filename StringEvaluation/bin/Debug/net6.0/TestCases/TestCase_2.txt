@@ -1,0 +1,9 @@
+Test Case 2:
+Sentence: a yss kqwkzyjklgoscgipi mbtqsgmkszegfrwtdhergcb howx lobdtleivldfslwuvclolvzzawqvmpoqtfixhac
+Words: ho, gfrwtd, g, goscg, eivldfsl
+Found 'ho' at index 48
+Found 'gfrwtd' at index 35
+Found 'g' at index 15
+Found 'goscg' at index 15
+Found 'eivldfsl' at index 59
+

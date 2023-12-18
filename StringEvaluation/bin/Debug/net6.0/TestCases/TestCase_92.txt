@@ -1,0 +1,7 @@
+Test Case 92:
+Sentence: ilgpygmkkxksrwrossgbzlmfopjqylascjcfk ecbcvtpmelseh pdvhpetgsx iqslilxieamtmfps
+Words: hpe, lm, gb
+Found 'hpe' at index 55
+Found 'lm' at index 21
+Found 'gb' at index 18
+

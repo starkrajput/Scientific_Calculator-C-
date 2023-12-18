@@ -1,0 +1,7 @@
+Test Case 354:
+Sentence: ftw meezawanbextfjtceydjdrrkidnednsherldtzutouagptvbovqfwjgdedjjbp
+Words: j, tfj, ez
+Found 'j' at index 17
+Found 'tfj' at index 15
+Found 'ez' at index 6
+

@@ -1,0 +1,9 @@
+Test Case 232:
+Sentence: pmzgxvqbdvjmnogywsxmrsbgv um dwhrugunyrsvdybduikwvtvnialcyczukurupxr jw
+Words: ukuru, vtv, hr, dvj, dyb
+Found 'ukuru' at index 60
+Found 'vtv' at index 49
+Found 'hr' at index 31
+Found 'dvj' at index 8
+Found 'dyb' at index 41
+

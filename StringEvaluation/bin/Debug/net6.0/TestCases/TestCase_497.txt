@@ -1,0 +1,8 @@
+Test Case 497:
+Sentence: dtpgqulqlickrbwdp styqbpzzyyspxgtjqffnlfgpvfwgwumqxzjg cshjqmhhewcqixtxntajdew mzkmbbersazd fbrjyw
+Words: wcq, fnl, e, x
+Found 'wcq' at index 64
+Found 'fnl' at index 36
+Found 'e' at index 63
+Found 'x' at index 30
+

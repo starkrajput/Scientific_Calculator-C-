@@ -1,0 +1,7 @@
+Test Case 475:
+Sentence: cqvvbzizmni n  teallftzoyzewpnjzgboeusfpbqipmadbs hxs
+Words: wpn, ipmadbs h, sf
+Found 'wpn' at index 27
+Found 'ipmadbs h' at index 42
+Found 'sf' at index 37
+

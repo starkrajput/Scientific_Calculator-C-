@@ -1,0 +1,6 @@
+Test Case 452:
+Sentence: lnmxzjxoaxbobqxahfaoa gwvqxhbdmmfpqidlpvvyk
+Words: v, y
+Found 'v' at index 24
+Found 'y' at index 41
+

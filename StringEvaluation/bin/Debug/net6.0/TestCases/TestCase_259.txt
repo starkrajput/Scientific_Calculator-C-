@@ -1,0 +1,7 @@
+Test Case 259:
+Sentence: xtubumjgwvfgchovexfvqfad
+Words: chove, fvqfa, wvf
+Found 'chove' at index 12
+Found 'fvqfa' at index 18
+Found 'wvf' at index 8
+

@@ -1,0 +1,8 @@
+Test Case 485:
+Sentence: oag mzyroptuhyeeprsqfwosxxqrmxlwrwyhznzjuagd emcncqhns
+Words: ju, ropt, xqr, y
+Found 'ju' at index 39
+Found 'ropt' at index 7
+Found 'xqr' at index 25
+Found 'y' at index 6
+

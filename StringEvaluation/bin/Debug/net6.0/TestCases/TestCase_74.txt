@@ -1,0 +1,8 @@
+Test Case 74:
+Sentence: uyrvsubox zcqqznhumdlsaywh
+Words: x zcqq, w, x, yw
+Found 'x zcqq' at index 8
+Found 'w' at index 24
+Found 'x' at index 8
+Found 'yw' at index 23
+

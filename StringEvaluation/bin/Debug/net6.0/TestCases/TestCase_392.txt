@@ -1,0 +1,8 @@
+Test Case 392:
+Sentence: m  jog i agcxxwkhicesdnrxnjasbfjmmdnjcnrcsykplpklfwyrsxjslzmvnzyqitutterpmvvgklwmpalvsfs
+Words: lfwy, asbfjm, cxx, rxnjas
+Found 'lfwy' at index 48
+Found 'asbfjm' at index 27
+Found 'cxx' at index 11
+Found 'rxnjas' at index 23
+

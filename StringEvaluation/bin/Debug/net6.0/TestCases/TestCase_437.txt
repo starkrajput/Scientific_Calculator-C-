@@ -1,0 +1,9 @@
+Test Case 437:
+Sentence: xzkzwlclq uijzaod zxozem
+Words: k, z, m, xz, u
+Found 'k' at index 2
+Found 'z' at index 1
+Found 'm' at index 23
+Found 'xz' at index 0
+Found 'u' at index 10
+

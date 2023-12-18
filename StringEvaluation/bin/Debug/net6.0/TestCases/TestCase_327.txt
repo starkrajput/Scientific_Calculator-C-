@@ -1,0 +1,9 @@
+Test Case 327:
+Sentence: zylxuqtjraxgmmzzngmdbstwuzkdncafxfxwbymlotqhaqsows
+Words: xgm, lotqh, bstw, wb, tjrax
+Found 'xgm' at index 10
+Found 'lotqh' at index 39
+Found 'bstw' at index 20
+Found 'wb' at index 35
+Found 'tjrax' at index 6
+

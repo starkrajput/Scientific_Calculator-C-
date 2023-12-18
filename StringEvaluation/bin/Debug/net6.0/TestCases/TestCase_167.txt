@@ -1,0 +1,7 @@
+Test Case 167:
+Sentence: iqyvqtamnancge wtvkpfkbdjivfloewlumkivjcxk mckzxynycrixagyvaxok mjghedlqjjaxumxpfk lk
+Words: k , wl, kpf
+Found 'k ' at index 41
+Found 'wl' at index 31
+Found 'kpf' at index 18
+

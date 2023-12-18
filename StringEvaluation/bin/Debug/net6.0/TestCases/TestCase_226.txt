@@ -1,0 +1,9 @@
+Test Case 226:
+Sentence: jfw txjraguzktbjmbqqntzvkqvsquvbyaqtfxgdwalbpsfolabjafdhltccosvsfsletpejlhkmwomkcpzpxipk
+Words: hlt, letpe, l, letpejlhk, sfs
+Found 'hlt' at index 55
+Found 'letpe' at index 66
+Found 'l' at index 42
+Found 'letpejlhk' at index 66
+Found 'sfs' at index 63
+

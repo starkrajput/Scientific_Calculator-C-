@@ -1,0 +1,8 @@
+Test Case 104:
+Sentence: alsjgwzmfmmqhilfshtz zgjs haypvknjbsbwefdkyfhtlzbqy
+Words: s hay, mqhil, fmmqh, lsjgwzmf
+Found 's hay' at index 24
+Found 'mqhil' at index 10
+Found 'fmmqh' at index 8
+Found 'lsjgwzmf' at index 1
+

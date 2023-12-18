@@ -1,0 +1,7 @@
+Test Case 10:
+Sentence: inpxzhagkjzh gupghregyqplrlstdzumjbynofwhjdgufmtktukxrtiqkpxutkb octsgmpyalacjnhibznnwdwmveskgyyeqp
+Words: jn, xr, t
+Found 'jn' at index 77
+Found 'xr' at index 52
+Found 't' at index 28
+

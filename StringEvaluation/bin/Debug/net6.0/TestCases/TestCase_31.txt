@@ -1,0 +1,6 @@
+Test Case 31:
+Sentence: ezkdsfcjhpbkbkssczcmnutrwvzozcsdvovnzypwvaapcubinlybpzqmydfihxwypfnfnsio wnpk gv gvbwywhysfkd
+Words: vaapc, fihxw
+Found 'vaapc' at index 40
+Found 'fihxw' at index 58
+

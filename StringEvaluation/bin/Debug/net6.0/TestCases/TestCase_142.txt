@@ -1,0 +1,8 @@
+Test Case 142:
+Sentence: ocihymohgcfsednumgojhnavbx iqakgtpbfjgwbzdqhmzkmflvuag
+Words: cfsednumg, flvuag, i, mflvua
+Found 'cfsednumg' at index 9
+Found 'flvuag' at index 48
+Found 'i' at index 2
+Found 'mflvua' at index 47
+

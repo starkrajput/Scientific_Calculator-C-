@@ -1,0 +1,9 @@
+Test Case 290:
+Sentence: icjyeuchaedkgyajsqpbvxidkdlq
+Words: l, sq, cj, qp, kdl
+Found 'l' at index 26
+Found 'sq' at index 16
+Found 'cj' at index 1
+Found 'qp' at index 17
+Found 'kdl' at index 24
+

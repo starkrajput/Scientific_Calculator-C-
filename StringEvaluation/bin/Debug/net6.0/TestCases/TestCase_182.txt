@@ -1,0 +1,8 @@
+Test Case 182:
+Sentence: ynopxtaofqhhyxancdfo
+Words: ncd, cdfo, aof, pxta
+Found 'ncd' at index 15
+Found 'cdfo' at index 16
+Found 'aof' at index 6
+Found 'pxta' at index 3
+

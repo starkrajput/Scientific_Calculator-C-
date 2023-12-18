@@ -1,0 +1,9 @@
+Test Case 19:
+Sentence: jtetwtmqcejyvcismvqknkjulwmtywgkjlnzdixisyofpnrdrm rzfzhgj
+Words: of, yvci, rm , yvci, j
+Found 'of' at index 42
+Found 'yvci' at index 11
+Found 'rm ' at index 48
+Found 'yvci' at index 11
+Found 'j' at index 0
+

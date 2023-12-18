@@ -1,0 +1,6 @@
+Test Case 495:
+Sentence: rhkrijfrdtjcbfehwcxgnplzxokqd cmxccxtkjltqymbe   au zstllev cwulsdcidogdmsahywkkwrh
+Words: tlle, xgnplzxo
+Found 'tlle' at index 54
+Found 'xgnplzxo' at index 18
+

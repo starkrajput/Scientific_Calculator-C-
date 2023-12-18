@@ -1,0 +1,9 @@
+Test Case 349:
+Sentence: cckiwdrtixthoehtfsrrbrmbfe maro
+Words: b, br, x, i, rt
+Found 'b' at index 20
+Found 'br' at index 20
+Found 'x' at index 9
+Found 'i' at index 3
+Found 'rt' at index 6
+

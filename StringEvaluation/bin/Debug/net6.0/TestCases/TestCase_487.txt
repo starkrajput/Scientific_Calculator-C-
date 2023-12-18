@@ -1,0 +1,8 @@
+Test Case 487:
+Sentence: wusqdpgsrmnsclml jtedpmvojokuvljxasvdpesfenkgcmxqskoi
+Words: en, dp, a, wu
+Found 'en' at index 41
+Found 'dp' at index 4
+Found 'a' at index 33
+Found 'wu' at index 0
+

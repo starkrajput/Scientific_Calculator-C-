@@ -1,0 +1,9 @@
+Test Case 322:
+Sentence: xebmrrdwdurqgciaxksmtr
+Words: r, i, ksmtr, t, ciaxk
+Found 'r' at index 4
+Found 'i' at index 14
+Found 'ksmtr' at index 17
+Found 't' at index 20
+Found 'ciaxk' at index 13
+

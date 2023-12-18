@@ -1,0 +1,9 @@
+Test Case 36:
+Sentence: qmfjymgpjvslmjtmlevqunkjztofflhiuauxtlipcilxczprzcyawbpsfummyjubrebxvi
+Words: mg, lev, b, r, mle
+Found 'mg' at index 5
+Found 'lev' at index 16
+Found 'b' at index 53
+Found 'r' at index 47
+Found 'mle' at index 15
+

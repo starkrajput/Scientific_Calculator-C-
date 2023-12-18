@@ -1,0 +1,6 @@
+Test Case 500:
+Sentence: zdlexyqkdrzrwjcfufueigwxrhwibprhhaegfnj ukgbbcxynugz ukvdxje
+Words: fueigwx, haegfnj
+Found 'fueigwx' at index 17
+Found 'haegfnj' at index 32
+

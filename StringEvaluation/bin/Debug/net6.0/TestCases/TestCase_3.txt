@@ -1,0 +1,6 @@
+Test Case 3:
+Sentence: p jipghzpwvtzoarxenjqscwwfacgoytcxary
+Words: pgh, r
+Found 'pgh' at index 4
+Found 'r' at index 15
+

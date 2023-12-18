@@ -1,0 +1,8 @@
+Test Case 454:
+Sentence: bmxhnqurevhthsfcyydbczqfydtalfpypqsye nrxoejpwhoiujdssscbejmbz barccofhizlvvezmxencrotphcelwopjxwdd
+Words: scbe, s, qurevhths, s
+Found 'scbe' at index 54
+Found 's' at index 13
+Found 'qurevhths' at index 5
+Found 's' at index 13
+

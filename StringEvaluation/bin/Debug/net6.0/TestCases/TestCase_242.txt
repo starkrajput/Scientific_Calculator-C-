@@ -1,0 +1,8 @@
+Test Case 242:
+Sentence: ewhdftqytfa dspaczbbhhlkepbpm peuwu ejqpnwbbwdpzwonllwwuw ok
+Words: bbw, nll, wdpzw, pm pe
+Found 'bbw' at index 42
+Found 'nll' at index 50
+Found 'wdpzw' at index 44
+Found 'pm pe' at index 27
+

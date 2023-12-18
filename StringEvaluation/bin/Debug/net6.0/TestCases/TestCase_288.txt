@@ -1,0 +1,6 @@
+Test Case 288:
+Sentence: gsxuxqiwkaatbrkbbkmpobgfpnzqmznnwfvmgygqk
+Words: tb, nw
+Found 'tb' at index 11
+Found 'nw' at index 31
+

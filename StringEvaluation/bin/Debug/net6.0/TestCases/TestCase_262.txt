@@ -1,0 +1,6 @@
+Test Case 262:
+Sentence: zaviwqmwevk m guaexynbkcmbj rftbqcghggbvtmafukrphigcgqgmhnd wjmvee awovxvxesvfurzxmfjp
+Words: kc, exy
+Found 'kc' at index 22
+Found 'exy' at index 17
+

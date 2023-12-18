@@ -1,0 +1,6 @@
+Test Case 377:
+Sentence: drjquerx fyeqopfchxg jdykyhzvsfwucuduzuwe
+Words: q, h
+Found 'q' at index 3
+Found 'h' at index 17
+

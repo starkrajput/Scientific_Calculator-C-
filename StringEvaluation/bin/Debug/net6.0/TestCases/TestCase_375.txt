@@ -1,0 +1,7 @@
+Test Case 375:
+Sentence: amvhpwofa fvjhdfamppiokvexaqniejqipnnwrmdtkntmbicehvx llpy ifrirqzvcqmdpfznaatzvgrlfaql
+Words:  llpy if, hdfampp, y ifr
+Found ' llpy if' at index 53
+Found 'hdfampp' at index 13
+Found 'y ifr' at index 57
+

@@ -1,0 +1,9 @@
+Test Case 351:
+Sentence: tbgnvbdumadim qhbubbfutnsxyubiqnqigpfguudujzkolgyy pvlqqamuhnxbnlrvnljr lt f gl
+Words: d, nv, ns, bd, ma
+Found 'd' at index 6
+Found 'nv' at index 3
+Found 'ns' at index 23
+Found 'bd' at index 5
+Found 'ma' at index 8
+

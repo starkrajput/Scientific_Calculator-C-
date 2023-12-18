@@ -1,0 +1,7 @@
+Test Case 357:
+Sentence: rxzwbjqtpcqcucmxbtaepzlatizxdsxydgjqbamdruidsw yzyp rlvqbureaoxzkw tqhmjii
+Words: e, ucm, ruidsw 
+Found 'e' at index 19
+Found 'ucm' at index 12
+Found 'ruidsw ' at index 40
+

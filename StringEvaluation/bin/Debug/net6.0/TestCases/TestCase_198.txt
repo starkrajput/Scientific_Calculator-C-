@@ -1,0 +1,9 @@
+Test Case 198:
+Sentence: gqzmhxulfumaxegfkigrzalfuibegjjouxarecphht y
+Words: recphht , gj, egfkigr, j, xegf
+Found 'recphht ' at index 35
+Found 'gj' at index 28
+Found 'egfkigr' at index 13
+Found 'j' at index 29
+Found 'xegf' at index 12
+

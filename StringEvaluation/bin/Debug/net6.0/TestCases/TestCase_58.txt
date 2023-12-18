@@ -1,0 +1,7 @@
+Test Case 58:
+Sentence: dclgwpyfzidkcrirythfzspzdkqziloinjftdu
+Words: c, r, qz
+Found 'c' at index 1
+Found 'r' at index 13
+Found 'qz' at index 26
+

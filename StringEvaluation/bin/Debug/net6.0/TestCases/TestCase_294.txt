@@ -1,0 +1,9 @@
+Test Case 294:
+Sentence: sevrlgmdzsmcdkah meaolrltxrbzplkm jfr
+Words: mcdka, smcdk, h, jf, xr
+Found 'mcdka' at index 10
+Found 'smcdk' at index 9
+Found 'h' at index 15
+Found 'jf' at index 34
+Found 'xr' at index 25
+

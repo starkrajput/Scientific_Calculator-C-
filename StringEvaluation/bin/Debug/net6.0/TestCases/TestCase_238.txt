@@ -1,0 +1,8 @@
+Test Case 238:
+Sentence: nwxyxunyfxjofrzsldvuxhuiysemzvcmlaxrxitqexgfcdhzdryhnjfbjfvufzgljmjrsekrwfcytiybizmfgzxrsv
+Words: sek, c, jm, hzd
+Found 'sek' at index 68
+Found 'c' at index 30
+Found 'jm' at index 64
+Found 'hzd' at index 46
+

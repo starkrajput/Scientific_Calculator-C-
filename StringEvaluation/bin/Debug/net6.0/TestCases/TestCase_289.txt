@@ -1,0 +1,9 @@
+Test Case 289:
+Sentence:  zztttw zewtdkaxjibffvujssdirmi scghsgiyjaxpwbslsmlpfh yqmb 
+Words: g, f, i , w, i
+Found 'g' at index 34
+Found 'f' at index 19
+Found 'i ' at index 30
+Found 'w' at index 6
+Found 'i' at index 17
+

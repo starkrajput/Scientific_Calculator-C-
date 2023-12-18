@@ -1,0 +1,6 @@
+Test Case 163:
+Sentence: vfihssestbplhrkstvjqtsnuaczshwkwikhjgltpshorawgvesqubeshgqnxqjswgngdhfnftaxuapzmvzplzg
+Words: stbp, ta
+Found 'stbp' at index 7
+Found 'ta' at index 72
+

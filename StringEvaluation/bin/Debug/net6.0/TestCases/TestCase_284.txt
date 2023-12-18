@@ -1,0 +1,8 @@
+Test Case 284:
+Sentence: ladlrmgnrcfftdj pebovlb
+Words: fftdj ,  p, cfftd, p
+Found 'fftdj ' at index 10
+Found ' p' at index 15
+Found 'cfftd' at index 9
+Found 'p' at index 16
+

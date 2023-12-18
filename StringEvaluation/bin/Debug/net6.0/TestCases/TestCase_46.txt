@@ -1,0 +1,6 @@
+Test Case 46:
+Sentence: ednuviafacbqgsnztcnygkwxamcll
+Words: ny, viafa
+Found 'ny' at index 18
+Found 'viafa' at index 4
+

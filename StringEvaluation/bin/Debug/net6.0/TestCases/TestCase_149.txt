@@ -1,0 +1,6 @@
+Test Case 149:
+Sentence: otjztyilikeppzwfypbbmufjueimgzibnkqd dqunhzjdfflyltokqhq lmtekzmjfdsnvvowkvj eskc ocnciavxoeodcjl
+Words: gzibnk, q lmtekzmj
+Found 'gzibnk' at index 28
+Found 'q lmtekzmj' at index 55
+

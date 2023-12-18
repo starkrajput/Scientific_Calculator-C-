@@ -1,0 +1,8 @@
+Test Case 320:
+Sentence: zvviqtmvpdqsyhcbyortc wztwmasy fkcfdhkcimbmeaycksgenlcjsyiqgzzqdpophetshqjkznajtrmbcw
+Words: pdqsyhc, sgenlcj, twm, vpdqsyhc
+Found 'pdqsyhc' at index 8
+Found 'sgenlcj' at index 48
+Found 'twm' at index 24
+Found 'vpdqsyhc' at index 7
+

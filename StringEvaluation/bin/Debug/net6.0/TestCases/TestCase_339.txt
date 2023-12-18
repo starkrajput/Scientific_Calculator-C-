@@ -1,0 +1,6 @@
+Test Case 339:
+Sentence: lkuruqilwdrnhsn ntthzvwabxzdo  ngbilikwilnlufaoaijdcwbzwfpdzrhyovizwynexcfv
+Words: zwynex, w
+Found 'zwynex' at index 66
+Found 'w' at index 8
+

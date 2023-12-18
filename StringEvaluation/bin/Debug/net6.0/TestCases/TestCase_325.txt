@@ -1,0 +1,8 @@
+Test Case 325:
+Sentence: wnxrovnoptoibmkongcqldi
+Words: ongc, on, gcql, x
+Found 'ongc' at index 15
+Found 'on' at index 15
+Found 'gcql' at index 17
+Found 'x' at index 2
+

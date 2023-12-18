@@ -1,0 +1,7 @@
+Test Case 267:
+Sentence: crkrogbsta pbbstabfgdfggemkvndftqttn
+Words: o, fg, ab
+Found 'o' at index 4
+Found 'fg' at index 18
+Found 'ab' at index 16
+

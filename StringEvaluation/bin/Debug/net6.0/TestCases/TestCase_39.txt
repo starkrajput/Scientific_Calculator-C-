@@ -1,0 +1,8 @@
+Test Case 39:
+Sentence: vtghyi wymqpzimalqqs fvihmspxrfmcnufcwsmpcymrtxywxvbhbyxiywkpvskepvguqtcjmaqvu okvhy
+Words: xiywkp, w, lqq, mspxrf
+Found 'xiywkp' at index 55
+Found 'w' at index 7
+Found 'lqq' at index 16
+Found 'mspxrf' at index 25
+

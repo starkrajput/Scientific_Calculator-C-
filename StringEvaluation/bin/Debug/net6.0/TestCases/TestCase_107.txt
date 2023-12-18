@@ -1,0 +1,9 @@
+Test Case 107:
+Sentence: jryxztilwgasqbioohgnnqt xjoosrgn eeqpdiewkhrgihoctnhxtlvme vouvokq sckflewhiklyenelmr
+Words: tilwg, yxzti, wga, q , ho
+Found 'tilwg' at index 5
+Found 'yxzti' at index 2
+Found 'wga' at index 8
+Found 'q ' at index 65
+Found 'ho' at index 46
+

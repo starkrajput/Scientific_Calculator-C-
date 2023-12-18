@@ -1,0 +1,8 @@
+Test Case 147:
+Sentence: kxqefyfsmahhxnsybltbluiwpoyijdv tctnngukdbdde
+Words: x, guk,  , a
+Found 'x' at index 1
+Found 'guk' at index 37
+Found ' ' at index 31
+Found 'a' at index 9
+

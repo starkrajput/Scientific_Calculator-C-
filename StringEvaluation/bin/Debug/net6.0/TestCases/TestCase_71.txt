@@ -1,0 +1,6 @@
+Test Case 71:
+Sentence: ynxta gxclyptoaajfjjwroqiqnqlbfnhfkeaczcccellzjsoaaiihgpnyk svzptcsrbbxyegskqdedvotrcvmd ej
+Words: ellzjso, yegs
+Found 'ellzjso' at index 42
+Found 'yegs' at index 71
+

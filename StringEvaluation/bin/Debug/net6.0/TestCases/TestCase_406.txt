@@ -1,0 +1,9 @@
+Test Case 406:
+Sentence: hnldzw ralvimeccbwpkfrwjxdghfyb vpcutlexcspcxbdcjmsouexo
+Words: nld,  ralvimec, pcutlexc, vimecc, rwjxdg
+Found 'nld' at index 1
+Found ' ralvimec' at index 6
+Found 'pcutlexc' at index 33
+Found 'vimecc' at index 10
+Found 'rwjxdg' at index 21
+

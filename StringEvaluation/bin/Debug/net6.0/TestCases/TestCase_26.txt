@@ -1,0 +1,6 @@
+Test Case 26:
+Sentence: se mjmuiwubkdcaqvpqvgtxhtlwsspuuluqsnsazhqcrdwziroqsyxeutda jyxyehvudpgvyhuxpfwyv
+Words: wub, yhux
+Found 'wub' at index 8
+Found 'yhux' at index 72
+

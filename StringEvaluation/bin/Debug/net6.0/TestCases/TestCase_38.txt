@@ -1,0 +1,9 @@
+Test Case 38:
+Sentence: swl ankzocip bzlqffshpdoorsbxtcwymakqdmsnnrewowzoatmmwhmpjdsjd ojtg cht vyk
+Words: xtcwym, ojtg cht v, wzo, d oj, bz
+Found 'xtcwym' at index 28
+Found 'ojtg cht v' at index 63
+Found 'wzo' at index 46
+Found 'd oj' at index 61
+Found 'bz' at index 13
+

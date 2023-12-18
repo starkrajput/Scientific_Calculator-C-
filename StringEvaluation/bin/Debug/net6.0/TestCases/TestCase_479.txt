@@ -1,0 +1,9 @@
+Test Case 479:
+Sentence: tgtzttmalpykqqqtfubvwemmedvyavtxdfciz ydb  mopovsgcmhoorgsd  wvla
+Words: tfubv, qqq, mhoorg, tzttma, g
+Found 'tfubv' at index 15
+Found 'qqq' at index 12
+Found 'mhoorg' at index 51
+Found 'tzttma' at index 2
+Found 'g' at index 1
+

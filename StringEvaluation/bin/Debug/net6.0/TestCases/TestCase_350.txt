@@ -1,0 +1,6 @@
+Test Case 350:
+Sentence: ufguskhiyrjayfgkzosmkyqtpsiee gxctld
+Words: fgkzos, osmky
+Found 'fgkzos' at index 13
+Found 'osmky' at index 17
+
