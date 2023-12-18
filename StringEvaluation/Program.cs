@@ -10,6 +10,8 @@ using System.Data;
 using System.Reflection.Metadata;
 using System.Text.RegularExpressions;
 using NCalc;
+using System.Numerics;
+
 class Program
 {
     static double solveExpression(String expression)
@@ -183,9 +185,9 @@ class Program
         Console.WriteLine("\nAdditional Keys:                     Additional Shift + Keys:                   Other Special Keys:" );
         Console.WriteLine("=================                      =========================                  ===================="); 
         Console.WriteLine("Ctrl + M: Secant                       Shift + S: 10^x                            Backspace: Remove Last");
-        Console.WriteLine("Ctrl + P: Cosecant                     Shift + T: Log10                           Escape: Close");                  
-        Console.WriteLine("Ctrl + Q: Cotangent                    Shift + T: Log10                           S: Abs");
-        Console.WriteLine("Ctrl + R: Round Up                     Shift + O: Log2                            T: Exp");
+        Console.WriteLine("Ctrl + P: Cosecant                                                                Escape: Close");                  
+        Console.WriteLine("Ctrl + Q: Cotangent                    Shift + T: LogBase_10                      S: Abs");
+        Console.WriteLine("Ctrl + R: Round Up                     Shift + O: LogBase_e                       T: Exp");
         Console.WriteLine("Ctrl + L: Round Down                   Shift + U: Sin                             O: Modulus (%)");
         Console.WriteLine("Ctrl + G: Random (1-100)               Shift + I: Cos                             U: Factorial");
         Console.WriteLine("Ctrl + S: Rad to Deg                   Shift + J: Tan                             I: (");
@@ -202,9 +204,9 @@ class Program
         Console.WriteLine("                                       Shift + V: ASec                            G: MC");
         Console.WriteLine("                                       Shift + W: ACosec                          B: TriRoot");
         Console.WriteLine("                                       Shift + P: ACot                            E: ACoth");
-        Console.WriteLine("                                       Shift + Q: ACosh                           D: ASech   ");
-        Console.WriteLine("                                       Shift + K: ATanh                           C: ACosech               ");
-        Console.WriteLine("                                                                                 ");
+        Console.WriteLine("                                       Shift + Q: ASinh                           D: ASech   ");
+        Console.WriteLine("                                       Shift + G: ACosh                            C: ACosech               ");
+        Console.WriteLine("                                       Shift + K: ATanh                           F: PI               ");
         Console.WriteLine("                                                                               ");
         Console.WriteLine(); 
         Console.WriteLine("Input Validation -> Please use * before putting ( bracket. Also, Please ensure you are providing Valid Expression.");
@@ -489,8 +491,8 @@ class Program
                         // F-E
                         if (double.TryParse(expressionSolver.ToString(), out double sumaz))
                         {
-                            expressionSolver = new StringBuilder(sumaz.ToString("0.###e+0"));
-                            History.Append("F-E(" + sumaz.ToString("0.###e+0") + ")");
+                            expressionSolver = new StringBuilder(sumaz.ToString($"0.{new string('#', 8)}e+0"));
+                            History.Append("F-E(" + sumaz.ToString("0.e+0") + ")");
                             Console.Clear();
                             Console.WriteLine(expressionHistory + "                            -> Current Expression");
 
@@ -502,7 +504,7 @@ class Program
                         break;
                     case ConsoleKey.A:
                         // e
-                            expressionSolver = new StringBuilder(((int)Math.E).ToString(""));
+                            expressionSolver = new StringBuilder((Math.E).ToString(""));
                             History.Append("e(" + (Math.E).ToString() + ")");
                             Console.Clear();
                             Console.WriteLine(expressionHistory + "                            -> Current Expression");
@@ -564,7 +566,7 @@ class Program
                         //ln
                         if (double.TryParse(expressionSolver.ToString(), out double intVal))
                         {
-                            expressionSolver = new StringBuilder((Math.ILogB(intVal)).ToString());
+                            expressionSolver = new StringBuilder(((double)Math.ILogB(intVal)).ToString());
                             History.Append("ln(" + intVal + ")");
                             Console.Clear();
                             Console.WriteLine(expressionHistory + "                            -> Current Expression");
@@ -576,7 +578,7 @@ class Program
                         }
                         break;
                     case ConsoleKey.U:
-                        // sin
+                        // Sin
                         if (double.TryParse(expressionSolver.ToString(), out double intVl))
                         {
                         if (Current == "Degree")
@@ -682,10 +684,14 @@ class Program
                     //tanh
                     if (double.TryParse(expressionSolver.ToString(), out double intVaalsa))
                     {
+
+
+
+
+
                         if (Current == "Degree")
                         {
-                            double er = (Convert.ToDouble(System.Math.PI) / 180) * (Convert.ToDouble(intVaalsa));
-                            expressionSolver = new StringBuilder((Math.Tanh(er)).ToString());
+                            expressionSolver = new StringBuilder((Math.Tanh(Convert.ToDouble(intVaalsa))).ToString());
                         }
                         else if (Current == "Radian")
                         {
@@ -695,11 +701,7 @@ class Program
                         else if (Current == "Gradian")
                         {
 
-                            double radianValue = intVaalsa * (Math.PI / 200);
-
-                            // Calculate Sin in gradient
-                            // double resultInGradient = Math.Sin(radianValue) * (10.0 / 9.0);
-                            expressionSolver = new StringBuilder((Math.Tanh(radianValue) ).ToString());
+                            expressionSolver = new StringBuilder((Math.Tanh(Convert.ToDouble(intVaalsa))).ToString());
                         }
                         //expressionSolver = new StringBuilder((Math.Tanh(intVaalsa)).ToString());
                         History.Append("Tanh(" + intVaalsa + ")");
@@ -718,8 +720,7 @@ class Program
                     {
                         if (Current == "Degree")
                         {
-                            double er = (Convert.ToDouble(System.Math.PI) / 180) * (Convert.ToDouble(intVaalse));
-                            expressionSolver = new StringBuilder((Math.Sinh(er)).ToString());
+                            expressionSolver = new StringBuilder((Math.Sinh(Convert.ToDouble(intVaalse))).ToString());
                         }
                         else if (Current == "Radian")
                         {
@@ -729,11 +730,7 @@ class Program
                         else if (Current == "Gradian")
                         {
 
-                            double radianValue = intVaalse * (Math.PI / 200);
-
-                            // Calculate Sin in gradient
-                            // double resultInGradient = Math.Sin(radianValue) * (10.0 / 9.0);
-                            expressionSolver = new StringBuilder((Math.Sinh(radianValue) ).ToString());
+                            expressionSolver = new StringBuilder((Math.Sinh(Convert.ToDouble(intVaalse))).ToString());
                         }
                         //expressionSolver = new StringBuilder((Math.Sinh(intVaalse)).ToString());
                         History.Append("Sinh(" + intVaalse + ")");
@@ -752,8 +749,7 @@ class Program
                     {
                         if (Current == "Degree")
                         {
-                            double er = (Convert.ToDouble(System.Math.PI) / 180) * (Convert.ToDouble(intVaalis));
-                            expressionSolver = new StringBuilder((Math.Cosh(er)).ToString());
+                            expressionSolver = new StringBuilder((Math.Cosh(Convert.ToDouble(intVaalis))).ToString());
                         }
                         else if (Current == "Radian")
                         {
@@ -763,11 +759,7 @@ class Program
                         else if (Current == "Gradian")
                         {
 
-                            double radianValue = intVaalis * (Math.PI / 200);
-
-                            // Calculate Sin in gradient
-                            // double resultInGradient = Math.Sin(radianValue) * (10.0 / 9.0);
-                            expressionSolver = new StringBuilder((Math.Cosh(radianValue)).ToString());
+                            expressionSolver = new StringBuilder((Math.Cosh(Convert.ToDouble(intVaalis))).ToString());
                         }
                         //expressionSolver = new StringBuilder((Math.Cosh(intVaalis)).ToString());
                         History.Append("Cosh(" + intVaalis + ")");
@@ -786,8 +778,7 @@ class Program
                     {
                         if (Current == "Degree")
                         {
-                            double er = (Convert.ToDouble(System.Math.PI) / 180) * (Convert.ToDouble(intVaalsq));
-                            expressionSolver = new StringBuilder((1/Math.Cosh(er)).ToString());
+                            expressionSolver = new StringBuilder((1 / Math.Cosh(Convert.ToDouble(intVaalsq))).ToString());
                         }
                         else if (Current == "Radian")
                         {
@@ -797,11 +788,7 @@ class Program
                         else if (Current == "Gradian")
                         {
 
-                            double radianValue = intVaalsq * (Math.PI / 200);
-
-                            // Calculate Sin in gradient
-                            // double resultInGradient = Math.Sin(radianValue) * (10.0 / 9.0);
-                            expressionSolver = new StringBuilder((1/Math.Cosh(radianValue)).ToString());
+                            expressionSolver = new StringBuilder((1 / Math.Cosh(Convert.ToDouble(intVaalsq))).ToString());
                         }
                         //expressionSolver = new StringBuilder((1/Math.Cosh(intVaalsq)).ToString());
                         History.Append("Sech(" + intVaalsq + ")");
@@ -820,8 +807,7 @@ class Program
                     {
                         if (Current == "Degree")
                         {
-                            double er = (Convert.ToDouble(System.Math.PI) / 180) * (Convert.ToDouble(intVaalws));
-                            expressionSolver = new StringBuilder((1 / Math.Sinh(er)).ToString());
+                            expressionSolver = new StringBuilder((1 / Math.Cosh(Convert.ToDouble(intVaalws))).ToString());
                         }
                         else if (Current == "Radian")
                         {
@@ -831,11 +817,7 @@ class Program
                         else if (Current == "Gradian")
                         {
 
-                            double radianValue = intVaalws * (Math.PI / 200);
-
-                            // Calculate Sin in gradient
-                            // double resultInGradient = Math.Sin(radianValue) * (10.0 / 9.0);
-                            expressionSolver = new StringBuilder((1 / Math.Sinh(radianValue)).ToString());
+                            expressionSolver = new StringBuilder((1 / Math.Cosh(Convert.ToDouble(intVaalws))).ToString());
                         }
 
                         //expressionSolver = new StringBuilder((1/Math.Sinh(intVaalws)).ToString());
@@ -855,8 +837,7 @@ class Program
                     {
                         if (Current == "Degree")
                         {
-                            double er = (Convert.ToDouble(System.Math.PI) / 180) * (Convert.ToDouble(iintVaals));
-                            expressionSolver = new StringBuilder((1 / Math.Tanh(er)).ToString());
+                            expressionSolver = new StringBuilder((1 / Math.Tanh(Convert.ToDouble(iintVaals))).ToString());
                         }
                         else if (Current == "Radian")
                         {
@@ -866,11 +847,7 @@ class Program
                         else if (Current == "Gradian")
                         {
 
-                            double radianValue = iintVaals * (Math.PI / 200);
-
-                            // Calculate Sin in gradient
-                            // double resultInGradient = Math.Sin(radianValue) * (10.0 / 9.0);
-                            expressionSolver = new StringBuilder((1 / Math.Tanh(radianValue)).ToString());
+                            expressionSolver = new StringBuilder((1 / Math.Tanh(Convert.ToDouble(iintVaals))).ToString());
                         }
 
                         //expressionSolver = new StringBuilder((1/Math.Tanh(iintVaals)).ToString());
@@ -1659,8 +1636,10 @@ class Program
                         Layout();
                         break;
                     case ConsoleKey.U:
-                        //n!
-                        if (long.TryParse(expressionSolver.ToString(), out long intVssl))
+                    //n!
+                    try
+                    {
+                        if (BigInteger.TryParse(expressionSolver.ToString(), out BigInteger intVssl))
                         {
                             expressionSolver = new StringBuilder((Factorial(intVssl)).ToString());
                             History.Append("Factorial(" + intVssl + ")");
@@ -1672,6 +1651,11 @@ class Program
                             Console.WriteLine(memoryExpression.ToString() + "                             -> Memory ");
                             Layout();
                         }
+                    }
+                    catch  {
+                        Console.WriteLine("Invalid Input. Enter System Predefined Bounded Values. ");
+                        Main();
+                    }
                         break;
                     case ConsoleKey.I:
                     //(
@@ -1904,6 +1888,18 @@ class Program
                         Layout();
                     }
                     break;
+                case ConsoleKey.F:
+                    // e
+                    expressionSolver = new StringBuilder(((int)Math.PI).ToString(""));
+                    History.Append("PI(" + (Math.PI).ToString() + ")");
+                    Console.Clear();
+                    Console.WriteLine(expressionHistory + "                            -> Current Expression");
+                    Console.WriteLine(expressionSolver + "                             -> Current Variable");
+                    Console.WriteLine(History + "                                      -> History ");
+                    Console.WriteLine(memoryExpression.ToString() + "                             -> Memory ");
+                    Layout();
+
+                    break;
 
             }
         }
@@ -1924,21 +1920,33 @@ class Program
 
 
     //---------------------------------------------------------------------------------------------------------------------------
-    static long Factorial(long n)
+    static BigInteger Factorial(BigInteger n)
     {
-        if (n < 0)
+        try
         {
-            throw new ArgumentException("Factorial is undefined for negative numbers.");
+            if (n < 0)
+            {
+                throw new ArgumentException("Input must be a non-negative integer.", nameof(n));
+            }
+
+            if (n == 0 || n == 1)
+            {
+                return 1;
+            }
+
+            BigInteger result = 1;
+            for (int i = 2; i <= n; i++)
+            {
+                result *= i;
+            }
+
+            return result;
         }
-        else if (n == 0 || n == 1)
-        {
-            return 1;
+        catch (Exception e) {
+            Console.WriteLine("Invalid Input. Enter System Predefined Bounded Values. ");
+            Main();
         }
-        else  
-        {
-            return n * Factorial(n - 1);
-        }
-       
+        return 0;
     }
 
     
