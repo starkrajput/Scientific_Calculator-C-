@@ -1544,7 +1544,7 @@ class Program
                         {
                             expressionSolver.Remove(expressionSolver.Length - 1, 1);
                         }
-                        
+                    Console.Clear();
                         Console.WriteLine(expressionHistory + "   -> Current Expression");
                         Console.WriteLine(expressionSolver + "    -> Current Variable");
 
